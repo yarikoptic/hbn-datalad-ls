@@ -1,0 +1,6 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARBR963KN1/Behavioral/mat_format/NDARBR963KN1_metafile.mat 2020-01-02T19:33:10.000Z 333 ver:oKPWlqV9p4HOT28O4ZBLa1SJ7s1UKNjz  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARBR963KN1/Behavioral/mat_format/NDARBR963KN1_metafile.mat?versionId=oKPWlqV9p4HOT28O4ZBLa1SJ7s1UKNjz [OK]

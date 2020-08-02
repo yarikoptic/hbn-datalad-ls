@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARMF230VEX/Behavioral/mat_format/NDARMF230VEX_metafile.mat    2019-09-17T05:45:56.000Z     401 ver:93WFbO7NVFHH8NJEi0BZ4uDrSWQA12x5  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMF230VEX/Behavioral/mat_format/NDARMF230VEX_metafile.mat?versionId=93WFbO7NVFHH8NJEi0BZ4uDrSWQA12x5 [OK]
+data/Projects/HBN/EEG/NDARMF230VEX/Behavioral/mat_format/NDARMF230VEX_vis_learn.mat   2019-09-17T05:45:56.000Z     642 ver:22ixOGvQk_hZoFtN1w3KbUEzyhYOlR5f  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMF230VEX/Behavioral/mat_format/NDARMF230VEX_vis_learn.mat?versionId=22ixOGvQk_hZoFtN1w3KbUEzyhYOlR5f [OK]
+data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_resting_Events.txt    2019-09-17T05:45:56.000Z   91605 ver:KKd7cCibMf.mug1EpGiegttAhekGKFKc  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_resting_Events.txt?versionId=KKd7cCibMf.mug1EpGiegttAhekGKFKc [OK]
+data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_resting_Samples.txt   2019-09-17T05:45:56.000Z 4918938 ver:r40xKB_nbiDWFQ64g.Li4zHkOcjqAZ62  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_resting_Samples.txt?versionId=r40xKB_nbiDWFQ64g.Li4zHkOcjqAZ62 [OK]
+data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_vis_learn_Events.txt  2019-09-17T05:45:56.000Z  417072 ver:DfRIvWL9P0GyENjQjRU8ygAQ2_0HBh2E  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_vis_learn_Events.txt?versionId=DfRIvWL9P0GyENjQjRU8ygAQ2_0HBh2E [OK]
+data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_vis_learn_Samples.txt 2019-09-17T05:45:56.000Z 5711987 ver:1g91oas08AmpWl1GcCM94MaFWNUmW.jd  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMF230VEX/Eyetracking/txt/NDARMF230VEX_vis_learn_Samples.txt?versionId=1g91oas08AmpWl1GcCM94MaFWNUmW.jd [OK]

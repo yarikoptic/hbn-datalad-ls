@@ -1,0 +1,8 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/CPAC_preprocessed/sub-NDARFE372VHL_ses-1/anatomical_brain/sub-NDARFE372VHL_acq-VNavNorm_T1w_resample_calc.nii.gz                                                                                                                                      2019-07-03T04:19:33.000Z   2249375 ver:1uItQXYbCqHALXt2LzhojqsXZIcLoOAr  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/CPAC_preprocessed/sub-NDARFE372VHL_ses-1/anatomical_brain/sub-NDARFE372VHL_acq-VNavNorm_T1w_resample_calc.nii.gz?versionId=1uItQXYbCqHALXt2LzhojqsXZIcLoOAr [OK]
+data/Projects/HBN/CPAC_preprocessed/sub-NDARFE372VHL_ses-1/anatomical_csf_mask/segment_seg_0_maths.nii.gz                                                                                                                                                               2019-07-03T04:19:33.000Z     49768 ver:wWJjTWyLwHGcSx.LAEtV0.vEBvMkQME.  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/CPAC_preprocessed/sub-NDARFE372VHL_ses-1/anatomical_csf_mask/segment_seg_0_maths.nii.gz?versionId=wWJjTWyLwHGcSx.LAEtV0.vEBvMkQME. [OK]
+data/Projects/HBN/CPAC_preprocessed/sub-NDARFE372VHL_ses-1/anatomical_gm_mask/segment_seg_1_maths.nii.gz                                                                                                                                                                2019-07-03T04:19:33.000Z    228200 

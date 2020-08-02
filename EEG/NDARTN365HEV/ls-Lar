@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARTN365HEV/Behavioral/mat_format/NDARTN365HEV_metafile.mat  2019-09-17T06:41:51.000Z       375 ver:dg6NJV5VpJtROuPyzO8jCkhzrs.1kWtc  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARTN365HEV/Behavioral/mat_format/NDARTN365HEV_metafile.mat?versionId=dg6NJV5VpJtROuPyzO8jCkhzrs.1kWtc [OK]
+data/Projects/HBN/EEG/NDARTN365HEV/EEG/raw/csv_format/RestingState_data.csv         2019-09-17T06:41:51.000Z 307891807 ver:vAQ3vGQ_gTTAoP8.DPJ8mZ8P.uuW6rp5  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARTN365HEV/EEG/raw/csv_format/RestingState_data.csv?versionId=vAQ3vGQ_gTTAoP8.DPJ8mZ8P.uuW6rp5 [OK]
+data/Projects/HBN/EEG/NDARTN365HEV/EEG/raw/csv_format/RestingState_event.csv        2019-09-17T06:41:51.000Z       287 ver:1TXrpBsQPVxgjdRt.FNGZeII5jK5xuhz  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARTN365HEV/EEG/raw/csv_format/RestingState_event.csv?versionId=1TXrpBsQPVxgjdRt.FNGZeII5jK5xuhz [OK]
+data/Projects/HBN/EEG/NDARTN365HEV/EEG/raw/mat_format/RestingState.mat              2019-09-17T06:41:51.000Z  13669949 ver:FCj1UPtfA110ROKwKR6UsJPqzhRxOTjL  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARTN365HEV/EEG/raw/mat_format/RestingState.mat?versionId=FCj1UPtfA110ROKwKR6UsJPqzhRxOTjL [OK]
+data/Projects/HBN/EEG/NDARTN365HEV/Eyetracking/txt/NDARTN365HEV_resting_Events.txt  2019-09-17T06:41:51.000Z     63937 ver:lhYn_56TOGH8CajvAukbvLSQ9MVVf2dE  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARTN365HEV/Eyetracking/txt/NDARTN365HEV_resting_Events.txt?versionId=lhYn_56TOGH8CajvAukbvLSQ9MVVf2dE [OK]
+data/Projects/HBN/EEG/NDARTN365HEV/Eyetracking/txt/NDARTN365HEV_resting_Samples.txt 2019-09-17T06:41:51.000Z   3460545 ver:_T80UgQrX89LquQIM6CoDSuYrB.703Q3  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARTN365HEV/Eyetracking/txt/NDARTN365HEV_resting_Samples.txt?versionId=_T80UgQrX89LquQIM6CoDSuYrB.703Q3 [OK]

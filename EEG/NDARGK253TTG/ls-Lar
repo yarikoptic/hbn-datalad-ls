@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARGK253TTG/Behavioral/mat_format/NDARGK253TTG_metafile.mat  2020-01-02T20:56:17.000Z       375 ver:NOoUPZQi_wpjsb17lNzqTFw8PH0WrVlY  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARGK253TTG/Behavioral/mat_format/NDARGK253TTG_metafile.mat?versionId=NOoUPZQi_wpjsb17lNzqTFw8PH0WrVlY [OK]
+data/Projects/HBN/EEG/NDARGK253TTG/EEG/raw/csv_format/RestingState_data.csv         2020-01-02T20:56:17.000Z 296113704 ver:YHcR5RDB1HT_F81Ul_WFSxfRgXJQg3bC  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARGK253TTG/EEG/raw/csv_format/RestingState_data.csv?versionId=YHcR5RDB1HT_F81Ul_WFSxfRgXJQg3bC [OK]
+data/Projects/HBN/EEG/NDARGK253TTG/EEG/raw/csv_format/RestingState_event.csv        2020-01-02T20:56:17.000Z       291 ver:BNkMp0v4aDjFwbjuZx9lbVFM5vTCBBWO  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARGK253TTG/EEG/raw/csv_format/RestingState_event.csv?versionId=BNkMp0v4aDjFwbjuZx9lbVFM5vTCBBWO [OK]
+data/Projects/HBN/EEG/NDARGK253TTG/EEG/raw/mat_format/RestingState.mat              2020-01-02T20:56:17.000Z 138504195 ver:wZkraTx1Oxtdb.bU1a8wnAD.uR78jQw9  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARGK253TTG/EEG/raw/mat_format/RestingState.mat?versionId=wZkraTx1Oxtdb.bU1a8wnAD.uR78jQw9 [OK]
+data/Projects/HBN/EEG/NDARGK253TTG/Eyetracking/txt/NDARGK253TTG_resting_Events.txt  2020-01-02T20:56:17.000Z     68387 ver:8FO1TJqdfSZwDNKRtCU7GpsIjFXiP3ie  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARGK253TTG/Eyetracking/txt/NDARGK253TTG_resting_Events.txt?versionId=8FO1TJqdfSZwDNKRtCU7GpsIjFXiP3ie [OK]
+data/Projects/HBN/EEG/NDARGK253TTG/Eyetracking/txt/NDARGK253TTG_resting_Samples.txt 2020-01-02T20:56:17.000Z   4156976 ver:5F.aJlDpzv6VSIzyoZRujAgKVhc9mkoJ  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARGK253TTG/Eyetracking/txt/NDARGK253TTG_resting_Samples.txt?versionId=5F.aJlDpzv6VSIzyoZRujAgKVhc9mkoJ [OK]

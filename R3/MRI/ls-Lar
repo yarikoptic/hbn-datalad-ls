@@ -1,0 +1,25 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/R3/MRI/           2018-01-31T21:03:31.000Z DeleteMarker
+data/Projects/HBN/R3/MRI/           2018-01-23T19:59:39.000Z 0 ver:3trYOmKU1MBbkxayWD_ICfOf0Er9hoEm  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R3/MRI/</Key><RequestId>AF7BD82E94DE66BA</RequestId><HostId>HnfeO4cjgVfnEVnpQJFgRnjKNX6ggnP7dt45p4exTCSxolHNrSRAOnY6joNPcbGeqWqRQg8CsvQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R3/MRI/?versionId=3trYOmKU1MBbkxayWD_ICfOf0Er9hoEm [E: 403]
+data/Projects/HBN/R3/MRI/CBIC/      2018-01-31T21:03:31.000Z DeleteMarker
+data/Projects/HBN/R3/MRI/CBIC/      2018-01-23T19:59:54.000Z 0 ver:O77SOOwMo4oHUD_USu9oR.6RwCRMd1L8  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R3/MRI/CBIC/</Key><RequestId>57D6B9D61BE2EA33</RequestId><HostId>KDDuftLvN9gQMq8ZA6hCYeZmKlncKLE5vTfZc3yKVPdTYtwZoin3k5o5llM1So3G5xEGyy7z8hM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R3/MRI/CBIC/?versionId=O77SOOwMo4oHUD_USu9oR.6RwCRMd1L8 [E: 403]
+data/Projects/HBN/R3/MRI/RU/        2018-01-31T21:03:31.000Z DeleteMarker
+data/Projects/HBN/R3/MRI/RU/        2018-01-23T19:59:50.000Z 0 ver:cHFrIYUgv6Ag2.MIS5P4lVeNnG8s7N5u  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R3/MRI/RU/</Key><RequestId>B6035F8374CBECD1</RequestId><HostId>iLMRxoNWx2q8bkTk00xJhqd3gUI1RkSVoUAZKUtjVgseGzVvxNUVDMBRHTa4lS7hU663oermkxI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R3/MRI/RU/?versionId=cHFrIYUgv6Ag2.MIS5P4lVeNnG8s7N5u [E: 403]
+data/Projects/HBN/R3/MRI/RU/folder/ 2018-01-31T21:03:31.000Z DeleteMarker
+data/Projects/HBN/R3/MRI/RU/folder/ 2018-01-23T20:00:07.000Z 0 ver:0bU8cYHQ5bnK.VXauQKWwy6DKYep5irk  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R3/MRI/RU/folder/</Key><RequestId>9ED276897EF7A2BE</RequestId><HostId>UDavVZVv9k0PiAFLfuuoMGedNhZoB1aS4DiAr1D9FB5EYgNN564lyxuZefGD2Llou5eca6wyMqk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R3/MRI/RU/folder/?versionId=0bU8cYHQ5bnK.VXauQKWwy6DKYep5irk [E: 403]
+data/Projects/HBN/R3/MRI/RU/tar/    2018-01-31T21:03:31.000Z DeleteMarker
+data/Projects/HBN/R3/MRI/RU/tar/    2018-01-23T20:00:03.000Z 0 ver:ETwBaez1zGeVmS0mJj3MB7ANtdmbbZo7  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R3/MRI/RU/tar/</Key><RequestId>3480F90184589ECB</RequestId><HostId>yO3k6EDyHydDSEhFcCRZHMzABFvdQk9FpTH+owJOtsJ5HIwjlAtHsoqlJ5VPXmdEbUiVrhcQ5vA=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R3/MRI/RU/tar/?versionId=ETwBaez1zGeVmS0mJj3MB7ANtdmbbZo7 [E: 403]

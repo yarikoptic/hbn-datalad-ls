@@ -1,0 +1,8 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARMM431GVE/EEG/raw/csv_format/RestingState_data.csv  2019-09-17T05:49:22.000Z 1612854026 ver:apZe287Wi3xAEz2QtIv36wbvzyZMKHlw  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMM431GVE/EEG/raw/csv_format/RestingState_data.csv?versionId=apZe287Wi3xAEz2QtIv36wbvzyZMKHlw [OK]
+data/Projects/HBN/EEG/NDARMM431GVE/EEG/raw/csv_format/RestingState_event.csv 2019-09-17T05:49:23.000Z         80 ver:1nOfWfQjAOq92r2JysJYuUgt188CHQis  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMM431GVE/EEG/raw/csv_format/RestingState_event.csv?versionId=1nOfWfQjAOq92r2JysJYuUgt188CHQis [OK]
+data/Projects/HBN/EEG/NDARMM431GVE/EEG/raw/mat_format/RestingState.mat       2019-09-17T05:49:23.000Z  396115452 ver:C8VvDMDnJWz0N9flywLk6Bp85KCGICLB  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARMM431GVE/EEG/raw/mat_format/RestingState.mat?versionId=C8VvDMDnJWz0N9flywLk6Bp85KCGICLB [OK]

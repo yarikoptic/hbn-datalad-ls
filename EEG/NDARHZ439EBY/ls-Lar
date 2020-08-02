@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt                             2019-03-26T03:31:09.000Z       754 ver:0soZcgZvIctZiaO.qP0GujDCGco99OCx  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt?versionId=0soZcgZvIctZiaO.qP0GujDCGco99OCx [OK]
+data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt                             2018-07-19T16:02:00.000Z       754 ver:Nf4qBnJt0YzCS3PpzllezWElvnvRJNI4  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt?versionId=Nf4qBnJt0YzCS3PpzllezWElvnvRJNI4 [OK]
+data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt                             2018-07-10T01:57:03.000Z       754 ver:shJabjbaIJMNJmt5bgRnk.b_b1vXdEYx  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt?versionId=shJabjbaIJMNJmt5bgRnk.b_b1vXdEYx [OK]
+data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt                             2018-07-07T10:47:54.000Z       754 ver:w8.d40UfnH4l7XX.Ss7ZLJ8.AfiUKv1g  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt?versionId=w8.d40UfnH4l7XX.Ss7ZLJ8.AfiUKv1g [OK]
+data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt                             2018-02-16T15:57:12.000Z       754 ver:mpJDtoo_a89NWdYK5zJyPvo2bMu7_RIG  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SAIIT_2AFC.txt?versionId=mpJDtoo_a89NWdYK5zJyPvo2bMu7_RIG [OK]
+data/Projects/HBN/EEG/NDARHZ439EBY/Behavioral/Readme_SurroundSupp.txt                           2019-03-26T03:31:09.000Z       553 

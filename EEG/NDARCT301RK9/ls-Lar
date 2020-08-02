@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARCT301RK9/Behavioral/mat_format/NDARCT301RK9_metafile.mat  2019-09-17T02:30:06.000Z       375 ver:LuWnHifgZHDJpUoOq2oIrLNMSCVKBZnP  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARCT301RK9/Behavioral/mat_format/NDARCT301RK9_metafile.mat?versionId=LuWnHifgZHDJpUoOq2oIrLNMSCVKBZnP [OK]
+data/Projects/HBN/EEG/NDARCT301RK9/EEG/raw/csv_format/RestingState_data.csv         2019-09-17T02:30:06.000Z 256251173 ver:Gzzz9_cK8w7NMLZEWLsQRh4TQk4kGGM0  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARCT301RK9/EEG/raw/csv_format/RestingState_data.csv?versionId=Gzzz9_cK8w7NMLZEWLsQRh4TQk4kGGM0 [OK]
+data/Projects/HBN/EEG/NDARCT301RK9/EEG/raw/csv_format/RestingState_event.csv        2019-09-17T02:30:07.000Z       289 ver:ZtXuZNAv1ALIopSkMF_sy2_XE.8pa1M_  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARCT301RK9/EEG/raw/csv_format/RestingState_event.csv?versionId=ZtXuZNAv1ALIopSkMF_sy2_XE.8pa1M_ [OK]
+data/Projects/HBN/EEG/NDARCT301RK9/EEG/raw/mat_format/RestingState.mat              2019-09-17T02:30:07.000Z  93994970 ver:HUvhW1LFovVRIk6wOZYUwWCiQWAoI44j  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARCT301RK9/EEG/raw/mat_format/RestingState.mat?versionId=HUvhW1LFovVRIk6wOZYUwWCiQWAoI44j [OK]
+data/Projects/HBN/EEG/NDARCT301RK9/Eyetracking/txt/NDARCT301RK9_resting_Events.txt  2019-09-17T02:30:07.000Z      6523 ver:g0dQvuzNjfL0r6pAXGyx1LWyqTQGkAF5  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARCT301RK9/Eyetracking/txt/NDARCT301RK9_resting_Events.txt?versionId=g0dQvuzNjfL0r6pAXGyx1LWyqTQGkAF5 [OK]
+data/Projects/HBN/EEG/NDARCT301RK9/Eyetracking/txt/NDARCT301RK9_resting_Samples.txt 2019-09-17T02:30:07.000Z    930024 ver:TD84_J7po61v3AVhue5f4HeDnezK5BAL  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARCT301RK9/Eyetracking/txt/NDARCT301RK9_resting_Samples.txt?versionId=TD84_J7po61v3AVhue5f4HeDnezK5BAL [OK]

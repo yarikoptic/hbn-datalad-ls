@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARJW697MYZ/Behavioral/mat_format/NDARJW697MYZ_metafile.mat  2020-01-02T21:28:02.000Z       375 ver:7RX9xA3l11EsIrDc0jyfwBWsgWxdAzVy  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARJW697MYZ/Behavioral/mat_format/NDARJW697MYZ_metafile.mat?versionId=7RX9xA3l11EsIrDc0jyfwBWsgWxdAzVy [OK]
+data/Projects/HBN/EEG/NDARJW697MYZ/EEG/raw/csv_format/SurroundSupp_Block1_data.csv  2020-01-02T21:28:02.000Z 153529684 ver:HOwjvjyIIDmGNeO2dNHSNJxtk.TdA.q1  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARJW697MYZ/EEG/raw/csv_format/SurroundSupp_Block1_data.csv?versionId=HOwjvjyIIDmGNeO2dNHSNJxtk.TdA.q1 [OK]
+data/Projects/HBN/EEG/NDARJW697MYZ/EEG/raw/csv_format/SurroundSupp_Block1_event.csv 2020-01-02T21:28:02.000Z      1250 ver:Pt0iHyynbUKE1WfMz9OE0mZ.agpZrrvA  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARJW697MYZ/EEG/raw/csv_format/SurroundSupp_Block1_event.csv?versionId=Pt0iHyynbUKE1WfMz9OE0mZ.agpZrrvA [OK]
+data/Projects/HBN/EEG/NDARJW697MYZ/EEG/raw/mat_format/SurroundSupp_Block1.mat       2020-01-02T21:28:02.000Z  49080271 ver:sti.e1BILmV44fkmZ05EKZy7nDA8muUr  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARJW697MYZ/EEG/raw/mat_format/SurroundSupp_Block1.mat?versionId=sti.e1BILmV44fkmZ05EKZy7nDA8muUr [OK]
+data/Projects/HBN/EEG/NDARJW697MYZ/Eyetracking/txt/NDARJW697MYZ_resting_Events.txt  2020-01-02T21:28:02.000Z     86984 ver:ikP8reJJRahSd6xkgnCIWviTK6mpkRBW  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARJW697MYZ/Eyetracking/txt/NDARJW697MYZ_resting_Events.txt?versionId=ikP8reJJRahSd6xkgnCIWviTK6mpkRBW [OK]
+data/Projects/HBN/EEG/NDARJW697MYZ/Eyetracking/txt/NDARJW697MYZ_resting_Samples.txt 2020-01-02T21:28:02.000Z   4373882 ver:IsGJVgPBpiLQ1j1pN8O71yhy85DLALj9  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARJW697MYZ/Eyetracking/txt/NDARJW697MYZ_resting_Samples.txt?versionId=IsGJVgPBpiLQ1j1pN8O71yhy85DLALj9 [OK]

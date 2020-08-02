@@ -1,0 +1,8 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARDX910VTC/Behavioral/mat_format/NDARDX910VTC_metafile.mat  2019-09-17T03:05:42.000Z     375 ver:dUibhii6Ae1RRERi_kYSJUotm0hOsz4W  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARDX910VTC/Behavioral/mat_format/NDARDX910VTC_metafile.mat?versionId=dUibhii6Ae1RRERi_kYSJUotm0hOsz4W [OK]
+data/Projects/HBN/EEG/NDARDX910VTC/Eyetracking/txt/NDARDX910VTC_resting_Events.txt  2019-09-17T03:05:42.000Z   41585 ver:4yEE2sI47H_YwnJl1LuKOeSqNE26mWHl  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARDX910VTC/Eyetracking/txt/NDARDX910VTC_resting_Events.txt?versionId=4yEE2sI47H_YwnJl1LuKOeSqNE26mWHl [OK]
+data/Projects/HBN/EEG/NDARDX910VTC/Eyetracking/txt/NDARDX910VTC_resting_Samples.txt 2019-09-17T03:05:42.000Z 1701333 ver:rWxKvRTiYXBPUhrS54Vc3mCoxBgChbbj  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARDX910VTC/Eyetracking/txt/NDARDX910VTC_resting_Samples.txt?versionId=rWxKvRTiYXBPUhrS54Vc3mCoxBgChbbj [OK]

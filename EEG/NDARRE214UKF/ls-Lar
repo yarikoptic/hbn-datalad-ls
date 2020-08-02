@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARRE214UKF/Behavioral/mat_format/NDARRE214UKF_metafile.mat  2020-01-02T22:20:36.000Z       375 ver:eRk1eokh_ShH9pAHpaGP.Z8dxJZGrqMR  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARRE214UKF/Behavioral/mat_format/NDARRE214UKF_metafile.mat?versionId=eRk1eokh_ShH9pAHpaGP.Z8dxJZGrqMR [OK]
+data/Projects/HBN/EEG/NDARRE214UKF/EEG/raw/csv_format/RestingState_data.csv         2020-01-02T22:20:36.000Z 208979521 ver:3Gkm1nODsun8EzjPvQLFbZBF7Xt47iA1  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARRE214UKF/EEG/raw/csv_format/RestingState_data.csv?versionId=3Gkm1nODsun8EzjPvQLFbZBF7Xt47iA1 [OK]
+data/Projects/HBN/EEG/NDARRE214UKF/EEG/raw/csv_format/RestingState_event.csv        2020-01-02T22:20:36.000Z       288 ver:wqajRb9Ll3g_fwU6q8eoXR5HJsjNq96Z  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARRE214UKF/EEG/raw/csv_format/RestingState_event.csv?versionId=wqajRb9Ll3g_fwU6q8eoXR5HJsjNq96Z [OK]
+data/Projects/HBN/EEG/NDARRE214UKF/EEG/raw/mat_format/RestingState.mat              2020-01-02T22:20:36.000Z 118992020 ver:gPteCBy9MMGVBfeaNXcDjWAwaBnzSsRD  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARRE214UKF/EEG/raw/mat_format/RestingState.mat?versionId=gPteCBy9MMGVBfeaNXcDjWAwaBnzSsRD [OK]
+data/Projects/HBN/EEG/NDARRE214UKF/Eyetracking/txt/NDARRE214UKF_resting_Events.txt  2020-01-02T22:20:36.000Z     72402 ver:XltzJuMZdK2cFulALjH2FdD54Jp3fnnb  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARRE214UKF/Eyetracking/txt/NDARRE214UKF_resting_Events.txt?versionId=XltzJuMZdK2cFulALjH2FdD54Jp3fnnb [OK]
+data/Projects/HBN/EEG/NDARRE214UKF/Eyetracking/txt/NDARRE214UKF_resting_Samples.txt 2020-01-02T22:20:36.000Z   4484907 ver:saxPXjPW8sUaNFxSiDRm5yn1YuF53A9q  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARRE214UKF/Eyetracking/txt/NDARRE214UKF_resting_Samples.txt?versionId=saxPXjPW8sUaNFxSiDRm5yn1YuF53A9q [OK]

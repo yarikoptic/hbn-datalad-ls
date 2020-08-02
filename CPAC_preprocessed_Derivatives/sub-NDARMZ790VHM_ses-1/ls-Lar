@@ -1,0 +1,8 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/CPAC_preprocessed_Derivatives/sub-NDARMZ790VHM_ses-1/anatomical_reorient/sub-NDARMZ790VHM_acq-HCP_T1w_resample.nii.gz 2019-08-16T16:08:31.000Z  20772300 ver:c2b5DRgXcnT7ASArZmJbcUMD71BrPqEU  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/CPAC_preprocessed_Derivatives/sub-NDARMZ790VHM_ses-1/anatomical_reorient/sub-NDARMZ790VHM_acq-HCP_T1w_resample.nii.gz?versionId=c2b5DRgXcnT7ASArZmJbcUMD71BrPqEU [OK]
+data/Projects/HBN/CPAC_preprocessed_Derivatives/sub-NDARMZ790VHM_ses-1/raw_functional/sub-NDARMZ790VHM_task-rest_run-1_bold.nii.gz      2019-08-16T16:08:31.000Z 146234402 ver:RXZTI1Nzj4fkklh5VNJG95daB4Z6eG7j  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/CPAC_preprocessed_Derivatives/sub-NDARMZ790VHM_ses-1/raw_functional/sub-NDARMZ790VHM_task-rest_run-1_bold.nii.gz?versionId=RXZTI1Nzj4fkklh5VNJG95daB4Z6eG7j [OK]
+data/Projects/HBN/CPAC_preprocessed_Derivatives/sub-NDARMZ790VHM_ses-1/raw_functional/sub-NDARMZ790VHM_task-rest_run-2_bold.nii.gz      2019-08-16T16:08:31.000Z 146852936 ver:EXvYuN89SxiZs3vNJhJEXjyQXDJiJapA  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/CPAC_preprocessed_Derivatives/sub-NDARMZ790VHM_ses-1/raw_functional/sub-NDARMZ790VHM_task-rest_run-2_bold.nii.gz?versionId=EXvYuN89SxiZs3vNJhJEXjyQXDJiJapA [OK]

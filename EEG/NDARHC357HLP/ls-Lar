@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARHC357HLP/Behavioral/mat_format/NDARHC357HLP_metafile.mat  2020-01-02T21:05:05.000Z       375 ver:MPYo_OAw.aevQnoFiAoFIynZpVp0tsrd  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHC357HLP/Behavioral/mat_format/NDARHC357HLP_metafile.mat?versionId=MPYo_OAw.aevQnoFiAoFIynZpVp0tsrd [OK]
+data/Projects/HBN/EEG/NDARHC357HLP/EEG/raw/csv_format/RestingState_data.csv         2020-01-02T21:05:05.000Z 194757643 ver:P2w4G2BPjM_lleXYfCj_n13BmcUccdPL  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHC357HLP/EEG/raw/csv_format/RestingState_data.csv?versionId=P2w4G2BPjM_lleXYfCj_n13BmcUccdPL [OK]
+data/Projects/HBN/EEG/NDARHC357HLP/EEG/raw/csv_format/RestingState_event.csv        2020-01-02T21:05:05.000Z       286 ver:qo6CUlYRG4.ME7W8_jBwJrh9fL60Tl04  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHC357HLP/EEG/raw/csv_format/RestingState_event.csv?versionId=qo6CUlYRG4.ME7W8_jBwJrh9fL60Tl04 [OK]
+data/Projects/HBN/EEG/NDARHC357HLP/EEG/raw/mat_format/RestingState.mat              2020-01-02T21:05:05.000Z 120701579 ver:h6gNboofUt5XdUQ5oiw_tkE9S0dgrKu4  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHC357HLP/EEG/raw/mat_format/RestingState.mat?versionId=h6gNboofUt5XdUQ5oiw_tkE9S0dgrKu4 [OK]
+data/Projects/HBN/EEG/NDARHC357HLP/Eyetracking/txt/NDARHC357HLP_resting_Events.txt  2020-01-02T21:05:05.000Z    107708 ver:kTLn_mWf.uKnyKIW0wabGQA5ozp3qIjl  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHC357HLP/Eyetracking/txt/NDARHC357HLP_resting_Events.txt?versionId=kTLn_mWf.uKnyKIW0wabGQA5ozp3qIjl [OK]
+data/Projects/HBN/EEG/NDARHC357HLP/Eyetracking/txt/NDARHC357HLP_resting_Samples.txt 2020-01-02T21:05:05.000Z   4152294 ver:X89XhrzrR.TYZbd4X3uf5cuReXEq9e_7  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARHC357HLP/Eyetracking/txt/NDARHC357HLP_resting_Samples.txt?versionId=X89XhrzrR.TYZbd4X3uf5cuReXEq9e_7 [OK]

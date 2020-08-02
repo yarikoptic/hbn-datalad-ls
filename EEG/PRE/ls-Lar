@@ -1,0 +1,30 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video1.idf 2019-03-26T02:46:19.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video1.idf 2019-03-26T02:45:45.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video1.idf 2019-03-26T02:45:15.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video2.idf 2019-03-26T02:46:24.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video2.idf 2019-03-26T02:45:49.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video2.idf 2019-03-26T02:45:20.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video3.idf 2019-03-26T02:46:28.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video3.idf 2019-03-26T02:45:53.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video3.idf 2019-03-26T02:45:24.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video3.idf 2019-03-26T02:43:21.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video4.idf 2019-03-26T02:46:33.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video4.idf 2019-03-26T02:45:57.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/idf/PRE_Video4.idf 2019-03-26T02:45:28.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video1.txt 2019-03-26T02:46:22.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video1.txt 2019-03-26T02:45:47.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video1.txt 2019-03-26T02:45:17.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video2.txt 2019-03-26T02:46:26.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video2.txt 2019-03-26T02:45:51.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video2.txt 2019-03-26T02:45:22.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video3.txt 2019-03-26T02:46:30.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video3.txt 2019-03-26T02:45:55.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video3.txt 2019-03-26T02:45:26.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video4.txt 2019-03-26T02:46:35.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video4.txt 2019-03-26T02:45:59.000Z DeleteMarker
+data/Projects/HBN/EEG/PRE/Eyetracking/txt/PRE_Video4.txt 2019-03-26T02:45:31.000Z DeleteMarker

@@ -1,0 +1,23 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/MRI/Resouces/                                                          2019-04-25T03:16:51.000Z DeleteMarker
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/                         2019-04-25T03:16:51.000Z DeleteMarker
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain.nii.gz          2019-04-25T03:16:51.000Z DeleteMarker
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain.nii.gz          2019-04-24T18:07:09.000Z 2793284 ver:Gs6U3lrKVZ2_ztaSgH4PFCvLkQJaEjHH  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain.nii.gz</Key><RequestId>B5C8A4D1A60D9E8B</RequestId><HostId>vHf198Ilnm4Qu9ZSTBou7YrEwfkN/1kaz/eVV28K8iq7X1zl0nBiozYkGMMxWZGtGve79w9Vc0A=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain.nii.gz?versionId=Gs6U3lrKVZ2_ztaSgH4PFCvLkQJaEjHH [E: 403]
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain_template.nii.gz 2019-04-25T03:16:51.000Z DeleteMarker
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain_template.nii.gz 2019-04-24T20:33:51.000Z 2793284 ver:KPNUsGw0OO9LsilILEKbTLrQs_C2nDTo  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain_template.nii.gz</Key><RequestId>8DBA31BA7BE4F4C3</RequestId><HostId>03tZopI83/PszOb0KpP96oinau1UkgmKut9tYt4fmzJcxmYezgR+4rSKA1FJoe7gA3L/TWmnR6Q=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_brain_template.nii.gz?versionId=KPNUsGw0OO9LsilILEKbTLrQs_C2nDTo [E: 403]
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_template.nii.gz       2019-04-25T03:16:51.000Z DeleteMarker
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_template.nii.gz       2019-04-24T20:33:51.000Z 6797956 ver:c4l3R.zsaZl75jHbUx8kX4kXVadrklkP  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_template.nii.gz</Key><RequestId>78BB6F762D8FE7CD</RequestId><HostId>s44pc5V7PM+sxnR5aqbg5K6d9yAXh1rs4oQ8z/NqXyHUboENpTyO+21kttiAphxFPmXJ5JlGqmE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_template.nii.gz?versionId=c4l3R.zsaZl75jHbUx8kX4kXVadrklkP [E: 403]
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_wholehead.nii.gz      2019-04-25T03:16:51.000Z DeleteMarker
+data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_wholehead.nii.gz      2019-04-24T18:07:09.000Z 6797956 ver:q00I279cp4kXh4jJTKCAkucodENcg2j_  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_wholehead.nii.gz</Key><RequestId>C71A1932CCB81AD6</RequestId><HostId>tKIrL8qgcKdCmINCs25jDQY4kiysoLr2elijrewjb4ohFx/SKPZDeeaMU3V7GUmnvQRDrJExFYA=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/MRI/Resouces/Stuty_specific_template_for_CPAC/t1_wholehead.nii.gz?versionId=q00I279cp4kXh4jJTKCAkucodENcg2j_ [E: 403]

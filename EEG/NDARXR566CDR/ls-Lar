@@ -1,0 +1,11 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/EEG/NDARXR566CDR/Behavioral/mat_format/NDARXR566CDR_metafile.mat    2020-01-02T23:02:22.000Z     411 ver:6lkTKIn0dsLIZKocKuq7Sao7vbXY8Llt  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARXR566CDR/Behavioral/mat_format/NDARXR566CDR_metafile.mat?versionId=6lkTKIn0dsLIZKocKuq7Sao7vbXY8Llt [OK]
+data/Projects/HBN/EEG/NDARXR566CDR/Behavioral/mat_format/NDARXR566CDR_vis_learn.mat   2020-01-02T23:02:22.000Z     699 ver:OM3puZV.xtljAaWx.olhrRnx4MeR76k8  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARXR566CDR/Behavioral/mat_format/NDARXR566CDR_vis_learn.mat?versionId=OM3puZV.xtljAaWx.olhrRnx4MeR76k8 [OK]
+data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_resting_Events.txt    2020-01-02T23:02:23.000Z   78635 ver:.SLt9o7l4LJ7WADIas4NztnJ5OMBAWpK  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_resting_Events.txt?versionId=.SLt9o7l4LJ7WADIas4NztnJ5OMBAWpK [OK]
+data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_resting_Samples.txt   2020-01-02T23:02:23.000Z 4131857 ver:55vsik7riJVgBglF2RAEsgcSyP8_ba8M  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_resting_Samples.txt?versionId=55vsik7riJVgBglF2RAEsgcSyP8_ba8M [OK]
+data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_vis_learn_Events.txt  2020-01-02T23:02:23.000Z  258346 ver:M9rvfZifT5.Gc771RCCFBtUlofISRoVJ  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_vis_learn_Events.txt?versionId=M9rvfZifT5.Gc771RCCFBtUlofISRoVJ [OK]
+data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_vis_learn_Samples.txt 2020-01-02T23:02:23.000Z 3131180 ver:lwt_XA3YCBPEBF.FAyj8zuS9YX.wocIB  acl:AccessDenied  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/EEG/NDARXR566CDR/Eyetracking/txt/NDARXR566CDR_vis_learn_Samples.txt?versionId=lwt_XA3YCBPEBF.FAyj8zuS9YX.wocIB [OK]

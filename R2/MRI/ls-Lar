@@ -1,0 +1,645 @@
+Connecting to bucket: fcp-indi
+Bucket info:
+  Versioning: S3ResponseError: 403 Forbidden
+     Website: S3ResponseError: 403 Forbidden
+         ACL: S3ResponseError: 403 Forbidden
+data/Projects/HBN/R2/MRI/                    2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/                    2017-09-27T19:27:13.000Z          0 ver:Xs7O7lQtp5B4Ij9sUzJrxa1RTFq_Nxox  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/</Key><RequestId>42B976601586539B</RequestId><HostId>Sc3AM80CVJum/Nmfrk/QBZSVD1ip+PzLLzvr57TXtRqdmyG5Ptt4FixH6bu7Bz/UOrW0TRjUm6s=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/?versionId=Xs7O7lQtp5B4Ij9sUzJrxa1RTFq_Nxox [OK]
+data/Projects/HBN/R2/MRI/NDARAA948VFH.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAA948VFH.tar.gz 2017-09-27T19:29:31.000Z 1178449824 ver:d9ishJ.CJUcgHXOYbFbQOdIxe8UsHyAF  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAA948VFH.tar.gz</Key><RequestId>049D21DC5A25DA4E</RequestId><HostId>3L8ou8QUEBr5/CYfcTBtfzTCnNNgqJTqvRsZHcLwmcNrfHwNLK3oXdlXSG9L5dJ2e3mc15+OV1E=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAA948VFH.tar.gz?versionId=d9ishJ.CJUcgHXOYbFbQOdIxe8UsHyAF [OK]
+data/Projects/HBN/R2/MRI/NDARAC853DTE.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAC853DTE.tar.gz 2017-09-27T19:32:49.000Z 1209440628 ver:pu9F75p2Jyj3SlfjLBfMdBnarcPin12g  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAC853DTE.tar.gz</Key><RequestId>5HDY1Z5W1G4NCM1W</RequestId><HostId>OGbsU4wFLPMdxoM/Ux3X6E/L+8FNZeXyUMOeZcTF+lE4yWFKc4LRCSGngD8A8Pi+qsERrLexPNU=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAC853DTE.tar.gz?versionId=pu9F75p2Jyj3SlfjLBfMdBnarcPin12g [OK]
+data/Projects/HBN/R2/MRI/NDARAG340ERT.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAG340ERT.tar.gz 2017-09-27T19:36:19.000Z  186086204 ver:QEwBnKoOzkB3Lb4Ai0Ryh3QPpgvc0JXP  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAG340ERT.tar.gz</Key><RequestId>535DE5C4F1B0ACE5</RequestId><HostId>yxoPchcY/+4vieyYNmHPs5Jr1zUQ6HqYQxthSTisB9XP6z2szD25xU56uHebt1F4Gl9cVPsfI1U=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAG340ERT.tar.gz?versionId=QEwBnKoOzkB3Lb4Ai0Ryh3QPpgvc0JXP [OK]
+data/Projects/HBN/R2/MRI/NDARAH948UF0.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAH948UF0.tar.gz 2017-09-27T19:36:54.000Z 1263301733 ver:_JBi_yy6bsp3puw.KRTKCcZgRvm_bI1A  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAH948UF0.tar.gz</Key><RequestId>1367DFFC5711DE8C</RequestId><HostId>kCAkBd23+mWPWO3D1mz/E6t4cIiYm6Rj1SK7Ncyb+Z/iqMbpdVSxXZZm+eVSGcEydReeA8RdK3s=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAH948UF0.tar.gz?versionId=_JBi_yy6bsp3puw.KRTKCcZgRvm_bI1A [OK]
+data/Projects/HBN/R2/MRI/NDARAM675UR8.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAM675UR8.tar.gz 2017-09-27T19:40:33.000Z 1047853688 ver:BVjISu2nercYT8JAo8xBb4r_e.r9iRPg  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAM675UR8.tar.gz</Key><RequestId>A95559237EF4C949</RequestId><HostId>/IEgM7FG+aMFn0H/f7uPcXeyg22McWIOgQOp2O+w0BXr+orS6jdaBc9ePm4Z9NL1s8wYflaS/T4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAM675UR8.tar.gz?versionId=BVjISu2nercYT8JAo8xBb4r_e.r9iRPg [OK]
+data/Projects/HBN/R2/MRI/NDARAP782TVC.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAP782TVC.tar.gz 2017-09-27T19:43:38.000Z 1124289471 ver:0TpEWcxnfkgKpxZS67oX8q7brVvdhvQo  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAP782TVC.tar.gz</Key><RequestId>8E9E765C187CBAE5</RequestId><HostId>Y81HPDo0NGy3pqfPIwDc0RKIpQaPH2g8Z5Cj/ibotkPb66jNiuQCxhzGLE+DKW0V/Aj6yY8RBIs=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAP782TVC.tar.gz?versionId=0TpEWcxnfkgKpxZS67oX8q7brVvdhvQo [OK]
+data/Projects/HBN/R2/MRI/NDARAT581NDH.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAT581NDH.tar.gz 2017-09-27T19:46:49.000Z 1236645570 ver:SBOH4akV6OOiGDCkJnLBHYm4iga6NkZZ  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAT581NDH.tar.gz</Key><RequestId>ABF45E4A1F3F3E55</RequestId><HostId>WQVz1E1pgbUE6J9LYjaZhSvjL3LnFNCX74BQyDNYJtlvrbP0xhPPn3s0+AlcJ4GMu/8RZ8AgGv0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAT581NDH.tar.gz?versionId=SBOH4akV6OOiGDCkJnLBHYm4iga6NkZZ [OK]
+data/Projects/HBN/R2/MRI/NDARAV610EY3.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAV610EY3.tar.gz 2017-09-27T19:50:24.000Z 1281644271 ver:18wurjKz7KWz2cpzfFiklbzWq4IaZtPd  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAV610EY3.tar.gz</Key><RequestId>2848161BC4D427E5</RequestId><HostId>/wbHuEZbrg2GDSd34lebQgrI/TgsbG7d5ceumUV0NgIEj0Lus9jAhur8sj6fcOkXbtIzWg526iI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAV610EY3.tar.gz?versionId=18wurjKz7KWz2cpzfFiklbzWq4IaZtPd [OK]
+data/Projects/HBN/R2/MRI/NDARAW179AYF.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARAW179AYF.tar.gz 2017-09-27T19:54:08.000Z 1233006813 ver:gr8q4yti5AB_eKyXClQmpLJDFkSJ118V  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARAW179AYF.tar.gz</Key><RequestId>3R3J6T9RCX8X2P3Y</RequestId><HostId>4Ohr65HhbC7BiKa4wqN7JAs0n6XvCyqaFKklhRnILYEVKRWFbF/j/9no46KXWBjxzzVMyram7nc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARAW179AYF.tar.gz?versionId=gr8q4yti5AB_eKyXClQmpLJDFkSJ118V [OK]
+data/Projects/HBN/R2/MRI/NDARBC734UVY.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARBC734UVY.tar.gz 2017-09-27T19:57:45.000Z  769130697 ver:SeELZ8QJMFULxzfYJJ23SOUF4p0u8hjf  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARBC734UVY.tar.gz</Key><RequestId>507EF888002FD102</RequestId><HostId>VByHxuaCC07AhAnbJE+8imtxub+dNnkiw8gZ/OkkoaFj1E9J6n6EUQZw8BOLta3FKROIFgJF8jM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARBC734UVY.tar.gz?versionId=SeELZ8QJMFULxzfYJJ23SOUF4p0u8hjf [OK]
+data/Projects/HBN/R2/MRI/NDARBE123PWH.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARBE123PWH.tar.gz 2017-09-27T19:59:55.000Z 1167160382 ver:nXuxAXY7yttdBkplG5.vNLjl_oFdvYIe  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARBE123PWH.tar.gz</Key><RequestId>5DFAF65A95464E1A</RequestId><HostId>4pkDE3CbSJ2jh+DHLhv7QFJhJxpGOqqXoS7veIzCZmIrHGXthtIZ5T9vKHUCId5VFUrVhaKys+g=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARBE123PWH.tar.gz?versionId=nXuxAXY7yttdBkplG5.vNLjl_oFdvYIe [OK]
+data/Projects/HBN/R2/MRI/NDARBF176LPM.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARBF176LPM.tar.gz 2017-09-27T20:03:31.000Z 1320305222 ver:z2Dcr2.Rnltiz575zDrYVpT30HWKMS7l  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARBF176LPM.tar.gz</Key><RequestId>B5A7FF6E534F7309</RequestId><HostId>6n6guDZ/GdYx18H4diY6uHt/EyydmWTh1Gs3P7PXTf+3eXuDFDvYYhLT8w2NcrNxzpqCDwSxEvc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARBF176LPM.tar.gz?versionId=z2Dcr2.Rnltiz575zDrYVpT30HWKMS7l [OK]
+data/Projects/HBN/R2/MRI/NDARBG574KF4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARBG574KF4.tar.gz 2017-09-27T20:07:28.000Z 1251858180 ver:Tg_pNLXpKHGndB8zxZzYdqQLSauySBii  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARBG574KF4.tar.gz</Key><RequestId>9HFPAY2Y5H9ZEX0R</RequestId><HostId>ev71vNovkvDM9hzpsx7jvFMHbOAOULc2kIJOZ9Cy0SqMhFdNVuxThu5VbWKAhRzHEPcq/aib6/k=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARBG574KF4.tar.gz?versionId=Tg_pNLXpKHGndB8zxZzYdqQLSauySBii [OK]
+data/Projects/HBN/R2/MRI/NDARBJ159HXB.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARBJ159HXB.tar.gz 2017-09-27T20:11:11.000Z 1153049163 ver:UooDGRNRQVqV8J9XBrhVs24b2cD3I8mn  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARBJ159HXB.tar.gz</Key><RequestId>AK8J3NAXCWEP9V3T</RequestId><HostId>HJgaUtEtzInnwAJZ0Bf7dd+D6JrpWVEA+MDIRwU3apBRduuIRr20LX/6SI+/drxy+aCMftyGd00=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARBJ159HXB.tar.gz?versionId=UooDGRNRQVqV8J9XBrhVs24b2cD3I8mn [OK]
+data/Projects/HBN/R2/MRI/NDARCG073GZ6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCG073GZ6.tar.gz 2017-09-27T20:14:40.000Z  748477234 ver:kTUm7w5lab_hIGoX3OJW9u8MJComAttx  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCG073GZ6.tar.gz</Key><RequestId>D1B7AFE2567AD917</RequestId><HostId>EvjSFoIUsDYdp3CZ51/NFKM0gzey3iupdbtwxAQYe2JOF4vcheJ9hlTN0XAQij4O7R9uV52huhw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCG073GZ6.tar.gz?versionId=kTUm7w5lab_hIGoX3OJW9u8MJComAttx [OK]
+data/Projects/HBN/R2/MRI/NDARCH881EFG.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCH881EFG.tar.gz 2017-09-27T20:16:52.000Z 1280409864 ver:up5fd..PNcYVgqUJkSNV.xyNr0sOniq0  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCH881EFG.tar.gz</Key><RequestId>A3681F07D209A46B</RequestId><HostId>sQB0ir/RZxLl6+oWkxZC6cG2b3nMe5UmqKBHebR1LxzDhd0NoKsJjudzIa5/hYsrexxTg0zBqBA=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCH881EFG.tar.gz?versionId=up5fd..PNcYVgqUJkSNV.xyNr0sOniq0 [OK]
+data/Projects/HBN/R2/MRI/NDARCK647MU6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCK647MU6.tar.gz 2017-09-27T20:20:44.000Z 1229718626 ver:1YnJ5BdDJvdeV1od5er5KlDOH7p226Gz  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCK647MU6.tar.gz</Key><RequestId>B6938A2103CB0A9B</RequestId><HostId>pzCNPpBPI/rTSitcYbWfVGn+lff7N61E09vkfj6b+2D9KLwALl1xExWNcIjLHiofoMqN89HMNl4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCK647MU6.tar.gz?versionId=1YnJ5BdDJvdeV1od5er5KlDOH7p226Gz [OK]
+data/Projects/HBN/R2/MRI/NDARCL016NHB.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCL016NHB.tar.gz 2017-09-27T20:24:15.000Z 1218903580 ver:7tw2u7w_ZS60Rau6MAcjoMiZ3k6mQnfj  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCL016NHB.tar.gz</Key><RequestId>2YCJ2GDNBS1G8V4P</RequestId><HostId>w0TBXNtuQlmmESG4UslmC4f9zK0+D/Ou6IIfzvVGLlYvwi/+yfyr9eud9tsbQkWNEFF9CrPqB2E=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCL016NHB.tar.gz?versionId=7tw2u7w_ZS60Rau6MAcjoMiZ3k6mQnfj [OK]
+data/Projects/HBN/R2/MRI/NDARCL105LUE.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCL105LUE.tar.gz 2017-09-27T20:27:45.000Z  802920061 ver:DCYFMWgJ8MMlUX1292JgwUWVzAYKEgN1  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCL105LUE.tar.gz</Key><RequestId>2B09F74B6444A070</RequestId><HostId>/+1lQ/WuZKhqC8EV6oCpZO8sNLeR6gQN0ZZTGplIdg2fKrdZ3RIvSKNfZSBOT+a16zax7it1tYY=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCL105LUE.tar.gz?versionId=DCYFMWgJ8MMlUX1292JgwUWVzAYKEgN1 [OK]
+data/Projects/HBN/R2/MRI/NDARCU118LMX.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCU118LMX.tar.gz 2017-09-27T20:30:04.000Z 1002539167 ver:E9Luo81ORpsFhqHYQ6PmUFmiYXV39cIm  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCU118LMX.tar.gz</Key><RequestId>0BDF2EB9237E259A</RequestId><HostId>rvaxn59j7VMZULtS5am1lfWjkAcQwoWpXRZIZ0DKQXyE9N+8+nU3w5Qek+m6DwV6qETEK34ZZRM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCU118LMX.tar.gz?versionId=E9Luo81ORpsFhqHYQ6PmUFmiYXV39cIm [OK]
+data/Projects/HBN/R2/MRI/NDARCU865PBV.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCU865PBV.tar.gz 2017-09-27T20:32:58.000Z 1179355847 ver:RxF3rdzeiWw_inoYnj_MTQGlSJy0mRqa  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCU865PBV.tar.gz</Key><RequestId>FQBR9RAQFJ5JAMFR</RequestId><HostId>cAJ23hpa71bhTU+xkHDoU0UlDDSxZyjaiG8NkUNOuMhUMqzxtViqUi/rwjPzDZDeF+U0Yq/Jhng=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCU865PBV.tar.gz?versionId=RxF3rdzeiWw_inoYnj_MTQGlSJy0mRqa [OK]
+data/Projects/HBN/R2/MRI/NDARCU957PGQ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCU957PGQ.tar.gz 2017-09-27T20:36:17.000Z    1280399 ver:Pxkq4JL0XNDb_OumGi39JVLSVNb9sym8  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCU957PGQ.tar.gz</Key><RequestId>D417C1BA6C24BF36</RequestId><HostId>wq/75TDnhfYrhgp485MZ3uoJRwUZB0y8O8z+bh+55p2v6BBQXV15+jeqB4tGkMPgYXHoRKdunRg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCU957PGQ.tar.gz?versionId=Pxkq4JL0XNDb_OumGi39JVLSVNb9sym8 [OK]
+data/Projects/HBN/R2/MRI/NDARCV944JA6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCV944JA6.tar.gz 2017-09-27T20:36:17.000Z 1201735997 ver:lAdjI3zRK.Kq4ngmiwb0mOTbaYR6v0V2  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCV944JA6.tar.gz</Key><RequestId>8F71BDF6D0CB2790</RequestId><HostId>CruU/0ZoDfBysCpEL5Nn0fkjlLE0LMfCd792JJyAaSYS4MvGqBQBlyo3zm+G1uTdqxf+MiRj3yI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCV944JA6.tar.gz?versionId=lAdjI3zRK.Kq4ngmiwb0mOTbaYR6v0V2 [OK]
+data/Projects/HBN/R2/MRI/NDARCW611MK5.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCW611MK5.tar.gz 2017-09-27T20:39:42.000Z 1251051087 ver:.O4TL2fL6UmEfSHA5tvpzXakImWskiyP  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCW611MK5.tar.gz</Key><RequestId>4Y2J8SBR8Z1R7PCT</RequestId><HostId>FU9Av2sJ8TsBR+qhIqPb4Di3iZz7nF3DHnCWX1Qvt47b+0OwinjTMp64sU/wVhtQGCZx7h8Z9+k=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCW611MK5.tar.gz?versionId=.O4TL2fL6UmEfSHA5tvpzXakImWskiyP [OK]
+data/Projects/HBN/R2/MRI/NDARCW933FD5.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCW933FD5.tar.gz 2017-09-27T20:43:13.000Z 1145924281 ver:oSJ6UeiwUCnWgHW_vFjlq9GSNflZ8rBb  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCW933FD5.tar.gz</Key><RequestId>6F04F895BEB61DF3</RequestId><HostId>ObRsg12trSIAGi4Kuwi/UAsF25fhYa7Mq2sE8MyT/xWgepTwdk4Vp5vTSEB1i/mLfdaBFnfLcDc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCW933FD5.tar.gz?versionId=oSJ6UeiwUCnWgHW_vFjlq9GSNflZ8rBb [OK]
+data/Projects/HBN/R2/MRI/NDARCX053GU5.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARCX053GU5.tar.gz 2017-09-27T20:46:26.000Z 1118825546 ver:KBe_GZHMxI6tyEmQqKdNCW9Xc4CswNuY  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARCX053GU5.tar.gz</Key><RequestId>B0F8EE8BFAB91135</RequestId><HostId>J6eK15M/wSKtCNebOzHy2Gs32RFJdGYMIvIj+XGu+j/aifWDydB8l8hsftWhqopzZcy69nck9U8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARCX053GU5.tar.gz?versionId=KBe_GZHMxI6tyEmQqKdNCW9Xc4CswNuY [OK]
+data/Projects/HBN/R2/MRI/NDARDF373ZDW.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDF373ZDW.tar.gz 2017-09-27T20:49:38.000Z 1209577315 ver:k_gRfa8aJ1t71ceacd20KXaThe7rA4cL  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDF373ZDW.tar.gz</Key><RequestId>4MCQ8ZFVDWAQDG5M</RequestId><HostId>LF4i5URXcj6/WcDLYvdP6jdK4bVcBXHcG6ywL5JZ7cP8rf1AWsccYGkIMQBEkUh2zFXBnkKBI2A=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDF373ZDW.tar.gz?versionId=k_gRfa8aJ1t71ceacd20KXaThe7rA4cL [OK]
+data/Projects/HBN/R2/MRI/NDARDH270YR5.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDH270YR5.tar.gz 2017-09-27T20:53:06.000Z 1180354420 ver:np0BJJXPKDMdv_ddwfDpH_3i6qocwEgE  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDH270YR5.tar.gz</Key><RequestId>3R2TDY9Z4X3G0Z6G</RequestId><HostId>M6pCsnhaWu+vKB5hXHd1DJPK6sE69lVM4DtgeB8wxOS2B2JDZeId707iawucbAruM3+TJ0tTsLM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDH270YR5.tar.gz?versionId=np0BJJXPKDMdv_ddwfDpH_3i6qocwEgE [OK]
+data/Projects/HBN/R2/MRI/NDARDM419DLQ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDM419DLQ.tar.gz 2017-09-27T20:56:34.000Z    1402479 ver:LfAx5.55sZRoQWlNgKc4q04k696aDdkB  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDM419DLQ.tar.gz</Key><RequestId>199CB231AA7CBED4</RequestId><HostId>3HbxF/hc4MGC21Bp6Iyl0abBpPCRTom8iB+1ldDfVGw/+Qb7ART30W72zVhz3gKCN0VVciU92tA=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDM419DLQ.tar.gz?versionId=LfAx5.55sZRoQWlNgKc4q04k696aDdkB [OK]
+data/Projects/HBN/R2/MRI/NDARDP786HE6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDP786HE6.tar.gz 2017-09-27T20:56:30.000Z 1234289442 ver:jhgKNRI2eheHf2KBd.SdqHo51IbsQhSO  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDP786HE6.tar.gz</Key><RequestId>9EABE9F7733468E9</RequestId><HostId>Cg29kWxwC+R6X5OjSxECq1p0Sn7Np4eP1SV9hnvlqRyuKH8/Mo3aVnlxr4A3Z25Bo6U7GxtT/hs=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDP786HE6.tar.gz?versionId=jhgKNRI2eheHf2KBd.SdqHo51IbsQhSO [OK]
+data/Projects/HBN/R2/MRI/NDARDR067YMC.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDR067YMC.tar.gz 2017-09-27T21:00:05.000Z 1165022942 ver:M2QLaoGWSYdwUZQNo1M2mJQotNkN5_Fh  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDR067YMC.tar.gz</Key><RequestId>6RDJ0M1G9Z5HFH9P</RequestId><HostId>ITmTsg8Bqqy5KseNVxt2N/3pXB++Ps4Gja3eZb3YhkIAHBvIfgnJshTgYm/ZK9ir+HtXzJsErnI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDR067YMC.tar.gz?versionId=M2QLaoGWSYdwUZQNo1M2mJQotNkN5_Fh [OK]
+data/Projects/HBN/R2/MRI/NDARDT528ZZJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDT528ZZJ.tar.gz 2017-09-27T21:04:06.000Z 1361833090 ver:SlTsRZTnO.16e0DUMXNB6EJ7pFz7YmCi  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDT528ZZJ.tar.gz</Key><RequestId>60E03F6C53806415</RequestId><HostId>3xpYWzzoNi9imbSfjckqIcxbeMt5NbKoy4EQhlYtY7GX/MK54uqrYdQRbjxBuHniyPx1kvtse2U=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDT528ZZJ.tar.gz?versionId=SlTsRZTnO.16e0DUMXNB6EJ7pFz7YmCi [OK]
+data/Projects/HBN/R2/MRI/NDARDW416KWZ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDW416KWZ.tar.gz 2017-09-27T21:08:01.000Z 1140799867 ver:OgIfxm2n64eDhDFFFajEIcEJBVMN6rXT  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDW416KWZ.tar.gz</Key><RequestId>A4CF2BEC542B8F5D</RequestId><HostId>PAkKHGumFX3YoE1d+uwbeVW2Qsr1i/0tgi+cGV3HnvgtfBsHeb03MNJx9g7RSvZK3MCTSY1rh14=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDW416KWZ.tar.gz?versionId=OgIfxm2n64eDhDFFFajEIcEJBVMN6rXT [OK]
+data/Projects/HBN/R2/MRI/NDARDY150ZP9.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARDY150ZP9.tar.gz 2017-09-27T21:11:12.000Z 1136955459 ver:dEqVZFeOS6LoS0UD1Uq7O7C8bYoqZH4s  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARDY150ZP9.tar.gz</Key><RequestId>401520DE5A439CF1</RequestId><HostId>GqxwIbP48ja20Nkd7IoxXK7npAgkxWx9NmcizzdgN1JFD7z50bQVq6rCDdsl6/EdgKvxzG5WgsQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARDY150ZP9.tar.gz?versionId=dEqVZFeOS6LoS0UD1Uq7O7C8bYoqZH4s [OK]
+data/Projects/HBN/R2/MRI/NDAREF164ZUJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDAREF164ZUJ.tar.gz 2017-09-27T21:14:30.000Z 1208244040 ver:R5Bp0O0E2JZ_RD_5tYmCOCY6z9Zj2sXS  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDAREF164ZUJ.tar.gz</Key><RequestId>7239C6901BEA51CB</RequestId><HostId>exCPoaHihT8alGBBqlKRjXfMia2XQE8Ns0ptizqeuZHAQlYYk4RNXFsE0sBFRSuNf0qjneg6Tfw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDAREF164ZUJ.tar.gz?versionId=R5Bp0O0E2JZ_RD_5tYmCOCY6z9Zj2sXS [OK]
+data/Projects/HBN/R2/MRI/NDAREH074NG8.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDAREH074NG8.tar.gz 2017-09-27T21:18:00.000Z  845064392 ver:B5FnjAgmGPNkPHgCoYgzJwKCzHXeQW06  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDAREH074NG8.tar.gz</Key><RequestId>7BDE5498DF804365</RequestId><HostId>/eTuysYVi62Iiv8BCN3WLEAz4tRkow8CHYN4/56ropsQfeBGVXOW0B0WvdCkSz3eZFpC/nn8gXg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDAREH074NG8.tar.gz?versionId=B5FnjAgmGPNkPHgCoYgzJwKCzHXeQW06 [OK]
+data/Projects/HBN/R2/MRI/NDAREK801BPB.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDAREK801BPB.tar.gz 2017-09-27T21:20:24.000Z 1122759481 ver:XWqrWzSzep6cwVjalii9dp1W6.Rvbm3F  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDAREK801BPB.tar.gz</Key><RequestId>210FADBA548810D9</RequestId><HostId>XOoR3cKMDqC4rDyb3RB+/PUap5gbo5LB3iZFnS5F7ksFisyD6tpqvwKAHVGNbHsIFhhRpXgtNLs=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDAREK801BPB.tar.gz?versionId=XWqrWzSzep6cwVjalii9dp1W6.Rvbm3F [OK]
+data/Projects/HBN/R2/MRI/NDAREY512KVX.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDAREY512KVX.tar.gz 2017-09-27T21:23:41.000Z  144692313 ver:6ElvdDNanm_ISETS5.vp0pBS5qpN4hN.  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDAREY512KVX.tar.gz</Key><RequestId>A89E2C2859BC0F7F</RequestId><HostId>YGDwoqdhiO8mpdJZC1vpd3HbkuOafurCNdGmdKkpWzIXAen+wY4cxPjn0i7qqeG0PE4wOKmHvAY=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDAREY512KVX.tar.gz?versionId=6ElvdDNanm_ISETS5.vp0pBS5qpN4hN. [OK]
+data/Projects/HBN/R2/MRI/NDAREY778CR9.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDAREY778CR9.tar.gz 2017-09-27T21:24:03.000Z 1164434530 ver:_NW7ywWZf92Rx5SXtKKWMVTGcaMKlXkl  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDAREY778CR9.tar.gz</Key><RequestId>2F7E5FEB00832F07</RequestId><HostId>XlkkmivXvywOXP6VxtTH8JcRtAYqzg2PT1TI/geB8n8RNlfnBhsMtlxdMkrmT1V3SioC8RYOWnA=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDAREY778CR9.tar.gz?versionId=_NW7ywWZf92Rx5SXtKKWMVTGcaMKlXkl [OK]
+data/Projects/HBN/R2/MRI/NDARFB908HVX.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARFB908HVX.tar.gz 2017-09-27T21:27:17.000Z 1183231943 ver:vXfMQBptsheDyPS1h9kMcyIHG9FoEj.h  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARFB908HVX.tar.gz</Key><RequestId>71D9DDF8760FEC85</RequestId><HostId>sZdldq8bVJ8Y+AtN4i36GWljUnRvFmqjehmIKA3qVfz7dgfbV6omXTZXm3vSLP1MmEwn1Nehrsw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARFB908HVX.tar.gz?versionId=vXfMQBptsheDyPS1h9kMcyIHG9FoEj.h [OK]
+data/Projects/HBN/R2/MRI/NDARFK477WX9.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARFK477WX9.tar.gz 2017-09-27T21:30:45.000Z 1221876381 ver:d24Nwsf.ir4g.ikhEvPqH1wa9kmELFLG  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARFK477WX9.tar.gz</Key><RequestId>94D951D6BD4E7815</RequestId><HostId>GcjRdtIPS0AFNsAZlSA3RwJT0H87SNCRwEqnne6O1Hox6ZVgZeI5towj0AQnzz0c5TJEqlxcZ7Y=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARFK477WX9.tar.gz?versionId=d24Nwsf.ir4g.ikhEvPqH1wa9kmELFLG [OK]
+data/Projects/HBN/R2/MRI/NDARGA056TMW.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGA056TMW.tar.gz 2017-09-27T21:34:15.000Z 1009092782 ver:Z8ul0Q9gSj7RorhaYVdtDHtElV7EtZ9u  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGA056TMW.tar.gz</Key><RequestId>4B6ACA385E7D3604</RequestId><HostId>UWO7O4BUlPQgf29G1AQqg5fZIkjhyxbbv5f+9fVpucfVImFMLpSwlAPkl0jg22AV1h6dQYtwZio=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGA056TMW.tar.gz?versionId=Z8ul0Q9gSj7RorhaYVdtDHtElV7EtZ9u [OK]
+data/Projects/HBN/R2/MRI/NDARGB324PM1.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGB324PM1.tar.gz 2017-09-27T21:37:10.000Z  747009139 ver:IAcRb2GBacX7FDw74cj_iz4fkoj2K5ar  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGB324PM1.tar.gz</Key><RequestId>EB9BDF955F59CA39</RequestId><HostId>yOeVyfijPvAMue/FW5culY+udzYNEaBlfFpcfYKN98RFhpF09qcxofATL8tfHN73wzJ6USYgr2Q=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGB324PM1.tar.gz?versionId=IAcRb2GBacX7FDw74cj_iz4fkoj2K5ar [OK]
+data/Projects/HBN/R2/MRI/NDARGG205WVN.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGG205WVN.tar.gz 2017-09-27T21:39:27.000Z  930018582 ver:f_uybr7uBA3YHa3pT4gIe9KdVhsBAju9  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGG205WVN.tar.gz</Key><RequestId>03E458C4476D02AE</RequestId><HostId>6tCYeCCBg14jjBJ1tcz4xRaeFk1hvxY+gz/+159Rj2hvsoKytqRiM72OhO5dT2S1ep1zswEvdKM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGG205WVN.tar.gz?versionId=f_uybr7uBA3YHa3pT4gIe9KdVhsBAju9 [OK]
+data/Projects/HBN/R2/MRI/NDARGK736HF4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGK736HF4.tar.gz 2017-09-27T21:42:17.000Z 1115408519 ver:EUl2.KFL1arEhRYTn.HIWtSNH11VZiSf  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGK736HF4.tar.gz</Key><RequestId>2DF2D0C08C214F2D</RequestId><HostId>/oX4o2wubSmK+ktC+j1bHvtwTuo3m9U4noV8JUgLN6nO44zsZSyG21UXNBx2mdm2aw4phHCfyaI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGK736HF4.tar.gz?versionId=EUl2.KFL1arEhRYTn.HIWtSNH11VZiSf [OK]
+data/Projects/HBN/R2/MRI/NDARGN756ZYP.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGN756ZYP.tar.gz 2017-09-27T21:45:29.000Z  515536424 ver:cSCDuaNRvYHuZw3yw34h5nRZn1y4Ult2  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGN756ZYP.tar.gz</Key><RequestId>7C3AA76615178F04</RequestId><HostId>g49wNq7PNyNrOf/qLPhAHG+J9CnUJF6Ez6K0NWUwOnebb9dISM/id47zBJYG+gzOwj197XpzEpk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGN756ZYP.tar.gz?versionId=cSCDuaNRvYHuZw3yw34h5nRZn1y4Ult2 [OK]
+data/Projects/HBN/R2/MRI/NDARGT551AFK.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGT551AFK.tar.gz 2017-09-27T21:47:02.000Z 1065717836 ver:.y9q7Cqcn3rSzZac8hVhz0CRJhY.tLH_  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGT551AFK.tar.gz</Key><RequestId>5FC1D11B1C479759</RequestId><HostId>1EylEkduBmT3D3Slun56AqjRmkeww9L36Zg3/sRxoxeiUKByHXT/dLEa0rjg9FEQb1LdjUAKs1s=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGT551AFK.tar.gz?versionId=.y9q7Cqcn3rSzZac8hVhz0CRJhY.tLH_ [OK]
+data/Projects/HBN/R2/MRI/NDARGT682ZWN.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGT682ZWN.tar.gz 2017-09-27T21:50:09.000Z 1242892427 ver:uE_KDUAnmHMglGLFiQ5YGfbN6yvwAuk9  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGT682ZWN.tar.gz</Key><RequestId>AF9412DE3A003966</RequestId><HostId>eYnB/YT8xQmrOwSmxdJZnEJ1lXTmORLDyXFUn5zmlAZAE5MWtZrVwNohPojXGJVTP76UUdktpV0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGT682ZWN.tar.gz?versionId=uE_KDUAnmHMglGLFiQ5YGfbN6yvwAuk9 [OK]
+data/Projects/HBN/R2/MRI/NDARGV781AMW.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGV781AMW.tar.gz 2017-09-27T21:53:56.000Z 1228914235 ver:aNDdgcFw2hrk7yVvt76s_XuEAfdHsiO5  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGV781AMW.tar.gz</Key><RequestId>2D6025E455377695</RequestId><HostId>W9p9TbLn/85jLieSg7vq3KFzSyBfJMgJC3ZTzdioFrT/mj7jBOWwEJ+GbrHZlfUfOwC0Dptgdwk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGV781AMW.tar.gz?versionId=aNDdgcFw2hrk7yVvt76s_XuEAfdHsiO5 [OK]
+data/Projects/HBN/R2/MRI/NDARGW404GJL.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGW404GJL.tar.gz 2017-09-27T21:57:34.000Z 1180344170 ver:_Cxg4zCv_1OQcul4wVZb5.s0q74NlHFM  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGW404GJL.tar.gz</Key><RequestId>D2E5CB68BF74DC34</RequestId><HostId>K15qX1PyKCowYGUNxRAxAiS+iiWuCeznOo9xt50+niOmbcvhChG78r4fIyi4iqx8xzx2jyhdRlQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGW404GJL.tar.gz?versionId=_Cxg4zCv_1OQcul4wVZb5.s0q74NlHFM [OK]
+data/Projects/HBN/R2/MRI/NDARGY622NG6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARGY622NG6.tar.gz 2017-09-27T22:01:14.000Z 1342801854 ver:tFnFTyQLGAD1g2Yl_KAnEHQa9vmBVp4e  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARGY622NG6.tar.gz</Key><RequestId>B1F6E836AB969B58</RequestId><HostId>6mvU3j+JRRNeVadnWIQpF/g4Bsgh0m2m5Pehy5LQGXOw9n0ZQ9QvnZOmIoWrTAmbZyc3TWEfEjI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARGY622NG6.tar.gz?versionId=tFnFTyQLGAD1g2Yl_KAnEHQa9vmBVp4e [OK]
+data/Projects/HBN/R2/MRI/NDARHD507TEF.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHD507TEF.tar.gz 2017-09-27T22:05:08.000Z 1195283661 ver:aUt3UWXlXXXi6C5NBK.UkFxICc5m3ea_  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHD507TEF.tar.gz</Key><RequestId>728164B6C9EAEC59</RequestId><HostId>AicSlq+Q6aHYSGg6k6/FXrmJoOG12yiXaT1o1B1IlXl9JtYPElSCm/opPsfTDLt0c69f5tUewnI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHD507TEF.tar.gz?versionId=aUt3UWXlXXXi6C5NBK.UkFxICc5m3ea_ [OK]
+data/Projects/HBN/R2/MRI/NDARHF351AA6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHF351AA6.tar.gz 2017-09-27T22:08:24.000Z 1030731487 ver:.MXYaTdjho0Y.o8bzXuJPAmLnCUmpfYQ  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHF351AA6.tar.gz</Key><RequestId>04D67F9DF68704D5</RequestId><HostId>d+7FyGIDfFjJUIxx0yJcGsISH0w/MrHl0C2grJ1FXk4fMAF5hhGuoATC/e0RviqbtOiPjnsb3HQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHF351AA6.tar.gz?versionId=.MXYaTdjho0Y.o8bzXuJPAmLnCUmpfYQ [OK]
+data/Projects/HBN/R2/MRI/NDARHG152GZC.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHG152GZC.tar.gz 2017-09-27T22:11:26.000Z 1242443613 ver:lXN..WJwmQldm8QQnEjTnl5hgvIE2T_G  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHG152GZC.tar.gz</Key><RequestId>2B6A8C16BA49AB80</RequestId><HostId>ok+0kBlsuIWWEumcHHpNnAzK2DNHAJg7bhjIBUWqlFy1Q0jilf1svwKRI25SX8qG2/eO3BM0KY8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHG152GZC.tar.gz?versionId=lXN..WJwmQldm8QQnEjTnl5hgvIE2T_G [OK]
+data/Projects/HBN/R2/MRI/NDARHJ034LDM.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHJ034LDM.tar.gz 2017-09-27T22:15:05.000Z 1377357886 ver:DcjIxwKZJdnbev4vmnebEmuxDclSlrIV  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHJ034LDM.tar.gz</Key><RequestId>4FA8ADBB23217304</RequestId><HostId>6cWMKvkxhnXnbJlO90fVjW19ZYcbAYrKRdVf5LnFgJaxn0BIaGBIRoMFHs64Zh03adOOaPHz5/Y=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHJ034LDM.tar.gz?versionId=DcjIxwKZJdnbev4vmnebEmuxDclSlrIV [OK]
+data/Projects/HBN/R2/MRI/NDARHL164JHH.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHL164JHH.tar.gz 2017-09-27T22:19:07.000Z 1349892056 ver:BgYiG8YCx7OGlx3HjTXlJPooQB07jTr3  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHL164JHH.tar.gz</Key><RequestId>77E3BF10646DE213</RequestId><HostId>rEQSall4M7LtjCSmWXMuvw2jpJogGghNL0AvKm39bh3Pldywgdjo4LXQIdGy76ufpJ5BCF6OJ/Y=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHL164JHH.tar.gz?versionId=BgYiG8YCx7OGlx3HjTXlJPooQB07jTr3 [OK]
+data/Projects/HBN/R2/MRI/NDARHN749RW4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHN749RW4.tar.gz 2017-09-27T22:22:56.000Z  842873130 ver:gY8OexUuBmRJ6wFATnFonb_TVOnlkNfQ  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHN749RW4.tar.gz</Key><RequestId>4Z8R6K2N5S9PBH3G</RequestId><HostId>XukgOYGbgQ56mdpWu2qatAQtaZET/KCvxADRy5cBRE9YiC+kfjfclEJjUWMB+HvvBvtEh8dBlG8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHN749RW4.tar.gz?versionId=gY8OexUuBmRJ6wFATnFonb_TVOnlkNfQ [OK]
+data/Projects/HBN/R2/MRI/NDARHP924ZHW.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHP924ZHW.tar.gz 2017-09-27T22:25:06.000Z 1223374887 ver:fRxnkYFrfCVzMU9JAhz7mKuDcse9.RJc  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHP924ZHW.tar.gz</Key><RequestId>4506A6EBE9F7CE68</RequestId><HostId>xviDb+hrCIOhIwi47Znw3OTau0fSPVtEhTZsro3sKSp4n8ZBcU0ZIhwR1QxkD0EGnA9JMo3va6Q=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHP924ZHW.tar.gz?versionId=fRxnkYFrfCVzMU9JAhz7mKuDcse9.RJc [OK]
+data/Projects/HBN/R2/MRI/NDARHU211PYD.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHU211PYD.tar.gz 2017-09-27T22:28:29.000Z  109395887 ver:5bTNfB3CshFi2DzsiFF8GVZRzjRM6ZmA  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHU211PYD.tar.gz</Key><RequestId>445AC0BF1CCDBEC0</RequestId><HostId>YPlk9R9/fW55Z8x9tZI+jWJoa1x3UB7SIOR5Ceh5AbgM0Hh3nqtcLf1MtqTHMEUtXpUZinuPvbk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHU211PYD.tar.gz?versionId=5bTNfB3CshFi2DzsiFF8GVZRzjRM6ZmA [OK]
+data/Projects/HBN/R2/MRI/NDARHU831NXU.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHU831NXU.tar.gz 2017-09-27T22:28:49.000Z  525577306 ver:iJmGc9DWKRoJmnR78rhddHJpkRS6ikod  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHU831NXU.tar.gz</Key><RequestId>E38B6853D1A4DB09</RequestId><HostId>qLKf0ivoFazQ+Px+elWLhMN/rGRk26YALLsikO2E9RdHNf+BBOgcTGlRxdqjB/uvsH+k5ZUMSBw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHU831NXU.tar.gz?versionId=iJmGc9DWKRoJmnR78rhddHJpkRS6ikod [OK]
+data/Projects/HBN/R2/MRI/NDARHY255FVU.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHY255FVU.tar.gz 2017-09-27T22:30:14.000Z  693304729 ver:UTlIyV61wF.ksjSE4EfnjU8EN1bUaVzs  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHY255FVU.tar.gz</Key><RequestId>1FBB96260A53B6EE</RequestId><HostId>cyFTQ1Mycemq8YOIF1ggH3kTADXVC7j/120TdD6K/mankah9EqqppGIiXZaB1PZrUyQ1CDOIq74=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHY255FVU.tar.gz?versionId=UTlIyV61wF.ksjSE4EfnjU8EN1bUaVzs [OK]
+data/Projects/HBN/R2/MRI/NDARHZ255RA6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARHZ255RA6.tar.gz 2017-09-27T22:32:12.000Z 1250629522 ver:ZnXCd7hzQk6e3HzmFdP2TRGh0BlQ0VLF  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARHZ255RA6.tar.gz</Key><RequestId>8095AD860105453B</RequestId><HostId>+lcJA8fVFjFcXYMY4nWOFm+ha86NdZ4E639V0SXi7ndOEsZovtX42IPjXA5HdE8RuWCwCydsHwk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARHZ255RA6.tar.gz?versionId=ZnXCd7hzQk6e3HzmFdP2TRGh0BlQ0VLF [OK]
+data/Projects/HBN/R2/MRI/NDARJG821GH3.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJG821GH3.tar.gz 2017-09-27T22:35:35.000Z  992261568 ver:DF3XSa_24Lrs7srpnAlMOyyUTiV64xen  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJG821GH3.tar.gz</Key><RequestId>2584257D4E78D983</RequestId><HostId>8PM0nNQC602OiXA3Jj1gGPYhKnx1nP0Y43F/kNKu93tiC3ZS3e/Ip4HXeM5qR6dfWSVPSjd5/qs=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJG821GH3.tar.gz?versionId=DF3XSa_24Lrs7srpnAlMOyyUTiV64xen [OK]
+data/Projects/HBN/R2/MRI/NDARJM239GN4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJM239GN4.tar.gz 2017-09-27T22:38:25.000Z 1271704694 ver:xs_hJekg1yOVxsugbZiZDo4IfPUkvuFr  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJM239GN4.tar.gz</Key><RequestId>DQ3R0W8SAR9X1Q9M</RequestId><HostId>eF/xkQi5712OrHt7vBekPTnYtFbkPbgWQWS5jFVjcv/dnXNpA3Frcwdwl/NXUpK6hA0WPWpKU0E=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJM239GN4.tar.gz?versionId=xs_hJekg1yOVxsugbZiZDo4IfPUkvuFr [OK]
+data/Projects/HBN/R2/MRI/NDARJM618NZH.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJM618NZH.tar.gz 2017-09-27T22:41:57.000Z    1291912 ver:2sy4._j1Ke4h1r_ZqD_UyphaC0bplm20  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJM618NZH.tar.gz</Key><RequestId>30A113F6BEB80729</RequestId><HostId>rW3moyBmGc8UVR6DrSKgpMLfF4nkMe49psCRvpShLgSVbSy3vO2p27amVMypZ8mSCdvDfajvTTc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJM618NZH.tar.gz?versionId=2sy4._j1Ke4h1r_ZqD_UyphaC0bplm20 [OK]
+data/Projects/HBN/R2/MRI/NDARJP444DZM.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJP444DZM.tar.gz 2017-09-27T22:41:58.000Z 1213514979 ver:EQTQmTFaBT2EWPD6gAtfUtPfLZMIVSFX  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJP444DZM.tar.gz</Key><RequestId>FFC1C10639A49277</RequestId><HostId>WzXk4QaKytRzj7qN3bVZQL33hKY7n6DXIRsFS0PNVsv0mx8vNszNkpO4SOOVJx0uwz/Kg2tf1Vw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJP444DZM.tar.gz?versionId=EQTQmTFaBT2EWPD6gAtfUtPfLZMIVSFX [OK]
+data/Projects/HBN/R2/MRI/NDARJV268PNW.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJV268PNW.tar.gz 2017-09-27T22:45:29.000Z 1198033176 ver:cIgVr28HNImQcDq4Ap4ELoF8JS5DFvcZ  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJV268PNW.tar.gz</Key><RequestId>963B2601BA37ABCD</RequestId><HostId>X5VtwnjMIxlPjVK5QO+A3TPRh3x2SbiWsrivMQ32dUUAApIVy3RxvuL08qzPk/d7bQDRPaSefOg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJV268PNW.tar.gz?versionId=cIgVr28HNImQcDq4Ap4ELoF8JS5DFvcZ [OK]
+data/Projects/HBN/R2/MRI/NDARJV377HG4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJV377HG4.tar.gz 2017-09-27T22:48:44.000Z 1009082854 ver:zMxHbSBWpOUYHlk0ViY_JzdNaL5ZzyWf  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJV377HG4.tar.gz</Key><RequestId>94DC60CEC7B79804</RequestId><HostId>2d2zIN5z20nOmcDXDtVeNWzj8IifYXYGcErmCw6G+jYfgmlEu5mfL1/1ip7QN1tLE/+jChKSF1c=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJV377HG4.tar.gz?versionId=zMxHbSBWpOUYHlk0ViY_JzdNaL5ZzyWf [OK]
+data/Projects/HBN/R2/MRI/NDARJW685KBA.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJW685KBA.tar.gz 2017-09-27T22:51:42.000Z  887256056 ver:ELTRuu6xxsvhe4TiEu5CwAo_oaJpYrEH  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJW685KBA.tar.gz</Key><RequestId>D2BFC4D4AF1C9C10</RequestId><HostId>GHgorPp79feWS0GJmbMVdQhpmcXD5DF8ADxW7WOQfgZVoINwjjhJCWBamySJVbK7rVslvv5OfZ4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJW685KBA.tar.gz?versionId=ELTRuu6xxsvhe4TiEu5CwAo_oaJpYrEH [OK]
+data/Projects/HBN/R2/MRI/NDARJZ089HVP.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJZ089HVP.tar.gz 2017-09-27T22:54:10.000Z 1284021621 ver:pqE3cGYRZuIfCjJ0ZjuXeVQ4NQWrt7a5  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJZ089HVP.tar.gz</Key><RequestId>FDBE6D3AFF0D88FE</RequestId><HostId>asLsswLGc8giO4zTayvIJPTh4UFkFxjWE7Tz9qcA8JYX01CiWZFE2R12gN8GurjJyvbMGje2dWI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJZ089HVP.tar.gz?versionId=pqE3cGYRZuIfCjJ0ZjuXeVQ4NQWrt7a5 [OK]
+data/Projects/HBN/R2/MRI/NDARJZ274PRQ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARJZ274PRQ.tar.gz 2017-09-27T22:57:39.000Z 1243767427 ver:cWcnY_AmU8x92zPSXksOkAvHSsmiJGI0  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARJZ274PRQ.tar.gz</Key><RequestId>7CFB48FAC69E4E76</RequestId><HostId>Uns06kcueDSDcE0RtwR6AyZqVsrZKUyLt9kB0dbyhvUl5xPQHyDSWT89bshz8iyjXPmLFbO78ZQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARJZ274PRQ.tar.gz?versionId=cWcnY_AmU8x92zPSXksOkAvHSsmiJGI0 [OK]
+data/Projects/HBN/R2/MRI/NDARKA085YRG.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKA085YRG.tar.gz 2017-09-27T23:01:18.000Z 1245839237 ver:7Gvw1HQPqO_Pr5tfxxmP5T2jaBjBpWkN  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKA085YRG.tar.gz</Key><RequestId>68428BE3A117E446</RequestId><HostId>vC8tWCtK6T0+MH+UvJJIPOXMLGWO84uUzNPhwAW1tzUclRMRDvPPR2WLyW7lKM5lYSN2h36GomQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKA085YRG.tar.gz?versionId=7Gvw1HQPqO_Pr5tfxxmP5T2jaBjBpWkN [OK]
+data/Projects/HBN/R2/MRI/NDARKH837TB2.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKH837TB2.tar.gz 2017-09-27T23:04:56.000Z 1218810954 ver:o.dbtabbBuTx4ep.7WiajAAByh4A2OtY  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKH837TB2.tar.gz</Key><RequestId>E90174EDEEB06311</RequestId><HostId>XdFnVJPGddnkmFqDazoDXDEy5eHWaBPAvK8pu5KHbGKuSoXY3CxuG8HZUAJxaF9hOl9dcYv7aMQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKH837TB2.tar.gz?versionId=o.dbtabbBuTx4ep.7WiajAAByh4A2OtY [OK]
+data/Projects/HBN/R2/MRI/NDARKK564DB0.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKK564DB0.tar.gz 2017-09-27T23:08:31.000Z   23643499 ver:OlvIWViypV6jRoKP6p1gRE_LbfCHXcsO  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKK564DB0.tar.gz</Key><RequestId>512A4807E88E90CD</RequestId><HostId>yWQq/k7JfQbVCIXPMLy8Qi+hixmeh5ALpzIBBEr9EDK2hFrPNknPxKzvR+0hltTVwbzaAt7rMnM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKK564DB0.tar.gz?versionId=OlvIWViypV6jRoKP6p1gRE_LbfCHXcsO [OK]
+data/Projects/HBN/R2/MRI/NDARKU616UBL.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKU616UBL.tar.gz 2017-09-27T23:08:38.000Z 1362627689 ver:Cr.bSJq72KihlzbsrMJ9HO3ZIG7l.Otm  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKU616UBL.tar.gz</Key><RequestId>86BD6AD059BC0CE1</RequestId><HostId>YXuSbFfzOprznSt7pjsMCvCuID7n2CbQEJ9ELqqMKMWDHF4aXbGXSyTR/QsSSRQP0nsI0Mhhacw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKU616UBL.tar.gz?versionId=Cr.bSJq72KihlzbsrMJ9HO3ZIG7l.Otm [OK]
+data/Projects/HBN/R2/MRI/NDARKV965WLU.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKV965WLU.tar.gz 2017-09-27T23:12:36.000Z 1065126012 ver:5W6x8tdtZbajAyLrQtE5ixvI2BRw62yc  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKV965WLU.tar.gz</Key><RequestId>03EC0D397EA6FE92</RequestId><HostId>mpUIncfIp1h01Qst/C0/thUXqZYNsJMJ4j5xOe27A/jIzuJdUtV6dq2+7xgraA1/dHl7qGIk5k8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKV965WLU.tar.gz?versionId=5W6x8tdtZbajAyLrQtE5ixvI2BRw62yc [OK]
+data/Projects/HBN/R2/MRI/NDARKW738AMY.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKW738AMY.tar.gz 2017-09-27T23:15:45.000Z 1166541717 ver:Honz_YgVlM.X9Sw2tMVmLyF8vc102WaO  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKW738AMY.tar.gz</Key><RequestId>7693AFE12631F668</RequestId><HostId>B8WnItjsOLQZnF0hNru8Haiaz5pUDZBdcoMTE8oLJAB7UQKeDVkvAgZ3uuho5zEuvktCoKyvv8Q=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKW738AMY.tar.gz?versionId=Honz_YgVlM.X9Sw2tMVmLyF8vc102WaO [OK]
+data/Projects/HBN/R2/MRI/NDARKY667THK.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARKY667THK.tar.gz 2017-09-27T23:18:51.000Z 1274512587 ver:djRzix3IpzNGOKfXQrczqK2ULlUV.gxl  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARKY667THK.tar.gz</Key><RequestId>28DB06BC86121F43</RequestId><HostId>L0QHh0L8y93uxJUTS4jxjrzudYp9RlYsdWL5w7jS2ECEMkaubONLW+3mBrYM88SJ3CXh9g2aWTM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARKY667THK.tar.gz?versionId=djRzix3IpzNGOKfXQrczqK2ULlUV.gxl [OK]
+data/Projects/HBN/R2/MRI/NDARLD016VCA.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLD016VCA.tar.gz 2017-09-27T23:22:20.000Z 1279822548 ver:QiMRnV7oD32Op9XoeBdX0xhtwJaWFeYy  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLD016VCA.tar.gz</Key><RequestId>79AFC029A7F85135</RequestId><HostId>l4735LC2aN9gCiN+rYbmFNfp1COfLNIywgW1xFoVGSzRLh0q39n5RiU/W0Vq9TF7jOfQF06LNAc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLD016VCA.tar.gz?versionId=QiMRnV7oD32Op9XoeBdX0xhtwJaWFeYy [OK]
+data/Projects/HBN/R2/MRI/NDARLE554GYT.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLE554GYT.tar.gz 2017-09-27T23:25:49.000Z 1257052511 ver:2hA1nL1kLgehLzNvyfs_89ws_SMHErlN  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLE554GYT.tar.gz</Key><RequestId>E7EF56A89311BCB0</RequestId><HostId>nD5ThbGiz8V4VPP2+j1d7Y09Sks93hCldRb2EEaWs5sqzORLeSxLKUyLr31jrYYouxzIFbn2Hdg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLE554GYT.tar.gz?versionId=2hA1nL1kLgehLzNvyfs_89ws_SMHErlN [OK]
+data/Projects/HBN/R2/MRI/NDARLJ654TZ0.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLJ654TZ0.tar.gz 2017-09-27T23:29:20.000Z 1240449124 ver:xSxDKBFixarXr5.s1jvy3lQW3f2V3IUc  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLJ654TZ0.tar.gz</Key><RequestId>A503D02E6B8BD31A</RequestId><HostId>1FIj6sJZVrSZLd/tSCU9Vjq6sjV+HIzGK6bh0uY3GoxhSDyzWLuap73Mov03vC1TyY7GAFof/CE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLJ654TZ0.tar.gz?versionId=xSxDKBFixarXr5.s1jvy3lQW3f2V3IUc [OK]
+data/Projects/HBN/R2/MRI/NDARLJ886BFK.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLJ886BFK.tar.gz 2017-09-27T23:32:58.000Z 1086990928 ver:RUBxCB2POeGkLg.BIOUD7_xPcnLQc.xq  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLJ886BFK.tar.gz</Key><RequestId>647C9EF95675779A</RequestId><HostId>b1UBD6l5gI32y1ldG7BVy/pCtgJKcd+mttqa1Ail3BM6nAW2jCfVIoKeVd7/n9VkhLdLIfRPit0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLJ886BFK.tar.gz?versionId=RUBxCB2POeGkLg.BIOUD7_xPcnLQc.xq [OK]
+data/Projects/HBN/R2/MRI/NDARLL914UW4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLL914UW4.tar.gz 2017-09-27T23:35:53.000Z 1169740393 ver:EO952MfPa.tiEWOfRvDUpKTPfAqL2IMH  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLL914UW4.tar.gz</Key><RequestId>FACE75784DE51D3B</RequestId><HostId>KuSqj1+JW1di5MhRcEq0hdn/nhwwRNsdJW0Sj3BZ6Q4eSYa/Ja1v8ovgGQ+M/NQc/0hSa/ctVyc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLL914UW4.tar.gz?versionId=EO952MfPa.tiEWOfRvDUpKTPfAqL2IMH [OK]
+data/Projects/HBN/R2/MRI/NDARLN070VX7.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLN070VX7.tar.gz 2017-09-27T23:38:57.000Z 1320345544 ver:m17sQYY.EWvULh893bkmIFOx5HsBZv86  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLN070VX7.tar.gz</Key><RequestId>CD09013B473C5215</RequestId><HostId>prgwTHyO1EdCxD0GUtUfGbo8huDfTYkEnj+YVtCX/IZRTEVwTUJbh6mzpDNe03LvrkBuC6gSeGE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLN070VX7.tar.gz?versionId=m17sQYY.EWvULh893bkmIFOx5HsBZv86 [OK]
+data/Projects/HBN/R2/MRI/NDARLN778RYN.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLN778RYN.tar.gz 2017-09-27T23:42:37.000Z 1008683254 ver:J2b1qSAvAQOLP7XtySxTcUzETNL6JQiT  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLN778RYN.tar.gz</Key><RequestId>2GANERCH3GBZDJ5Y</RequestId><HostId>kWF4rKBZJ91p2FocCK3crK1QwFvGZ4qESsN4pTvAMlLdctsWtzkfvAUNJVZ56FPBOYgeE8pqMuc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLN778RYN.tar.gz?versionId=J2b1qSAvAQOLP7XtySxTcUzETNL6JQiT [OK]
+data/Projects/HBN/R2/MRI/NDARLV387GP4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLV387GP4.tar.gz 2017-09-27T23:45:27.000Z  208458951 ver:v1JSxcjm74mZGsuOUqfAdwD0CF9D9QPY  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLV387GP4.tar.gz</Key><RequestId>435998BD607F75B0</RequestId><HostId>GSQsvMK5E96j5IeDAgXelP8aco9I8+/Xftzn9peT44o0VmDPyTt2gvaBonk5D933wjvZBAODST0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLV387GP4.tar.gz?versionId=v1JSxcjm74mZGsuOUqfAdwD0CF9D9QPY [OK]
+data/Projects/HBN/R2/MRI/NDARLX836EHJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARLX836EHJ.tar.gz 2017-09-27T23:46:03.000Z  993645868 ver:PbO6u.KLOb0AJ9y8MR6HZ8wusIhUrh3n  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARLX836EHJ.tar.gz</Key><RequestId>412E2D7A68D2A9B3</RequestId><HostId>mK4U3c9PBJWV7cZdS03KtR5T+2+OX7XFxe7o+ZJRMiD6L+fh4d4PDl67KyyTidaR1itUgOAaQwM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARLX836EHJ.tar.gz?versionId=PbO6u.KLOb0AJ9y8MR6HZ8wusIhUrh3n [OK]
+data/Projects/HBN/R2/MRI/NDARMG196KV4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMG196KV4.tar.gz 2017-09-27T23:48:45.000Z 1214224135 ver:VbeoZPXv6BjdlVCrYcSRhcVpRcjmjyOV  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMG196KV4.tar.gz</Key><RequestId>6A9CB348D7BA1623</RequestId><HostId>gDIMA5tyKRYpNJ+2eAe3OfjawUwN9eBZnYAccgJ2as8gwIH67G3ZylXtzEeCypGnHFdWM+Q95uM=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMG196KV4.tar.gz?versionId=VbeoZPXv6BjdlVCrYcSRhcVpRcjmjyOV [OK]
+data/Projects/HBN/R2/MRI/NDARMJ334ZK3.tar.gz 2018-03-06T16:27:35.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMJ334ZK3.tar.gz 2017-09-27T23:52:10.000Z 1196167882 ver:NoT_.oTvHjVgMaJllu_tigZXuI5.LsGB  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMJ334ZK3.tar.gz</Key><RequestId>DG6RAJBHAY5KBNCT</RequestId><HostId>IVBUaI9DkM0pgKzk61by/6KuhdWmhto/3lprjdBZ3c9d4VrGQc3zK3Nh+NxTMx7PNYc7iVjqNlE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMJ334ZK3.tar.gz?versionId=NoT_.oTvHjVgMaJllu_tigZXuI5.LsGB [OK]
+data/Projects/HBN/R2/MRI/NDARMJ849UKD.tar.gz 2018-03-06T16:27:35.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMJ849UKD.tar.gz 2017-09-27T23:55:32.000Z 1114096053 ver:EwZmvGnpcWuZoUYhgoqp1SoCfKhHLtju  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMJ849UKD.tar.gz</Key><RequestId>48DA4CA24028FD92</RequestId><HostId>SYLWJOUUZmalrJMZIs4BI5pJzz5NH2L5T4G/Y/FgGGYo6Wwd4GRahWc03/maZgZXmTSXJP3KH8Q=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMJ849UKD.tar.gz?versionId=EwZmvGnpcWuZoUYhgoqp1SoCfKhHLtju [OK]
+data/Projects/HBN/R2/MRI/NDARML406ZB8.tar.gz 2018-03-06T16:27:35.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARML406ZB8.tar.gz 2017-09-27T23:58:39.000Z  814891781 ver:F28IaLUmCev8SsFhJVFTu1YMpbsM9g4n  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARML406ZB8.tar.gz</Key><RequestId>530B121CAA145DE2</RequestId><HostId>hgIzscYZbhawz4atxHINIIZlHn/LWjGP2drKhRz9V8tA+XLwGFoJxhbpz9ZdeFhahVVtNivqZ4g=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARML406ZB8.tar.gz?versionId=F28IaLUmCev8SsFhJVFTu1YMpbsM9g4n [OK]
+data/Projects/HBN/R2/MRI/NDARMM003AH9.tar.gz 2018-03-06T16:27:35.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMM003AH9.tar.gz 2017-09-28T00:01:05.000Z  167866391 ver:LHPRdpCsoZSSXcyPgQwyr9pbLNHDhgt3  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMM003AH9.tar.gz</Key><RequestId>5B174AFD330CCC1F</RequestId><HostId>+RvBACMXKe2xubQM7qLc3ckN+QpmiXr7E8woQwTRyfpk0753qKfeNZEfyBh5ljDL0jFMwOjCuaU=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMM003AH9.tar.gz?versionId=LHPRdpCsoZSSXcyPgQwyr9pbLNHDhgt3 [OK]
+data/Projects/HBN/R2/MRI/NDARMM005DLK.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMM005DLK.tar.gz 2017-09-28T00:01:37.000Z 1280725511 ver:ls2VNcSlDS0OWeZP0U0WJWiL_xne.weE  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMM005DLK.tar.gz</Key><RequestId>80AF5602D1F9A8D1</RequestId><HostId>L+PHgdNoEZ29/PFM1cbJP9IkRUv+26LIy7CiyFAuJjMF2iynJqVtZmZZAmx9kazvhfpFId/qOz4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMM005DLK.tar.gz?versionId=ls2VNcSlDS0OWeZP0U0WJWiL_xne.weE [OK]
+data/Projects/HBN/R2/MRI/NDARMM137PT6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMM137PT6.tar.gz 2017-09-28T00:05:05.000Z 1314901988 ver:RYuopdSH2tpp9uSieEh7HHT8qsgk4LtR  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMM137PT6.tar.gz</Key><RequestId>A7221D11259FFA22</RequestId><HostId>04R2fjVW7wlJF9PMyOqy4AHHKtN8zRwgOQf5RmlrhtVzfDu8ZmPx0E+1656sw5vhmPOhqDYDCQ0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMM137PT6.tar.gz?versionId=RYuopdSH2tpp9uSieEh7HHT8qsgk4LtR [OK]
+data/Projects/HBN/R2/MRI/NDARMM326JCB.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMM326JCB.tar.gz 2017-09-28T00:08:48.000Z 1238442370 ver:gyBkfN5d6rG07qOu8I60v3XD6kboqoUY  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMM326JCB.tar.gz</Key><RequestId>4M0R1ZAZ5G1N5N0W</RequestId><HostId>HPW9m8aIswRVl6j+gEoQ64Zl4ON6GhBxxL9BnAPmVuBDA745Ggy+zPIh8axc5S5hCnWHXZJwMnI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMM326JCB.tar.gz?versionId=gyBkfN5d6rG07qOu8I60v3XD6kboqoUY [OK]
+data/Projects/HBN/R2/MRI/NDARMM951YEH.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMM951YEH.tar.gz 2017-09-28T00:12:33.000Z 1239558076 ver:fsP8xu6CrtHUediQdxlY3IAqQncrzOOe  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMM951YEH.tar.gz</Key><RequestId>CB997700BDD2F7E0</RequestId><HostId>pd8MSat4WLs2HInxjGlSSFWmsiyI2UdA/+Baav6VGqFVlIrWPQBPnigvDA8gCGesf/01jpzsW88=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMM951YEH.tar.gz?versionId=fsP8xu6CrtHUediQdxlY3IAqQncrzOOe [OK]
+data/Projects/HBN/R2/MRI/NDARMP745EAC.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMP745EAC.tar.gz 2017-09-28T00:16:04.000Z 1080877231 ver:aEw5x.8fTlm.gKqCRZdoVI_CpcqLGkTL  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMP745EAC.tar.gz</Key><RequestId>05F095B169EBB2C0</RequestId><HostId>AvfRJeCu2HepbKn4ahuJ3oxiMvz5pHKb1bmAqLjQSoo39895/QXbwTB+gYwag9qwJ5xRK4D9bso=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMP745EAC.tar.gz?versionId=aEw5x.8fTlm.gKqCRZdoVI_CpcqLGkTL [OK]
+data/Projects/HBN/R2/MRI/NDARMT732GKM.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMT732GKM.tar.gz 2017-09-28T00:19:09.000Z 1261495749 ver:CcPXFj.OqjQRft3_p270ExmYs6s19wFp  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMT732GKM.tar.gz</Key><RequestId>94447098811FEB9A</RequestId><HostId>g8yp+k/Dv7sxGRleyt+H5o/clEwOeYRvS9sfORMj45KAsoPJ9FZMXzQQlNhw1LWs5z7BAZBSykc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMT732GKM.tar.gz?versionId=CcPXFj.OqjQRft3_p270ExmYs6s19wFp [OK]
+data/Projects/HBN/R2/MRI/NDARMT784NED.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMT784NED.tar.gz 2017-09-28T00:22:47.000Z 1195627817 ver:GMfI.l0atfZBdnSMXJ4v5HpeTZK2xfER  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMT784NED.tar.gz</Key><RequestId>8B8E07298B23030D</RequestId><HostId>/bNZhulk/F4ol/q0yGhEVn06VHxEQA4Y0eJ4AbwHyOWyr7CAdTrK234g795cs7oAceO1aAck5BE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMT784NED.tar.gz?versionId=GMfI.l0atfZBdnSMXJ4v5HpeTZK2xfER [OK]
+data/Projects/HBN/R2/MRI/NDARMV718DYL.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMV718DYL.tar.gz 2017-09-28T00:26:11.000Z 1126672590 ver:3ikdpmQqOAd_53RwYRdtGRAa1ALNYY0c  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMV718DYL.tar.gz</Key><RequestId>CFA414475F6C2375</RequestId><HostId>xLw1g/zCFlIJ2Zt421t0uHtwL1I2o1nKOGCKto/2JXwkVAfsKBsZUO/zFZiQbJrw5Q3WpiKXcQY=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMV718DYL.tar.gz?versionId=3ikdpmQqOAd_53RwYRdtGRAa1ALNYY0c [OK]
+data/Projects/HBN/R2/MRI/NDARMZ687XRR.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARMZ687XRR.tar.gz 2017-09-28T00:29:25.000Z 1303410222 ver:XV7WL4WqDDCQjm2R6UjjW113wEf8axsa  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARMZ687XRR.tar.gz</Key><RequestId>C5D0FF2C6F84539A</RequestId><HostId>HH6KXmNo2ntSv3Dbc3p9uIKMedbgMkIzFabGAst8LBLEjRc4WcO2YFozsmNMqZIrjpv/vecRSiQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARMZ687XRR.tar.gz?versionId=XV7WL4WqDDCQjm2R6UjjW113wEf8axsa [OK]
+data/Projects/HBN/R2/MRI/NDARNC561KDP.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARNC561KDP.tar.gz 2017-09-28T00:33:15.000Z 1225521286 ver:mBy2OkNkA9vIP8n5Wnj.nGcywx.VtDK0  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARNC561KDP.tar.gz</Key><RequestId>555796B72798918E</RequestId><HostId>HZk0a00BbRwlDfEqdrMDkZ+kLiHoarbgUKyYs1JGiifqmj1ljQf0W+ecuQeUl1ovixrBKv6vK08=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARNC561KDP.tar.gz?versionId=mBy2OkNkA9vIP8n5Wnj.nGcywx.VtDK0 [OK]
+data/Projects/HBN/R2/MRI/NDARND348HB3.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARND348HB3.tar.gz 2017-09-28T00:36:36.000Z 1145100564 ver:GcqC1QXjH_8dSlEDRuJ9GZ6EVaaUZ2Il  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARND348HB3.tar.gz</Key><RequestId>4G5TBK9J7M3G4NCP</RequestId><HostId>m+hAx4rlAroiAVUjYni9Ym14hMLy+KwhGhaQek7sD2b7ajjNALbWeFt8zpUugobL4xkxXMukjZQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARND348HB3.tar.gz?versionId=GcqC1QXjH_8dSlEDRuJ9GZ6EVaaUZ2Il [OK]
+data/Projects/HBN/R2/MRI/NDARNT541VT2.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARNT541VT2.tar.gz 2017-09-28T00:39:49.000Z 1301910856 ver:PdSswf0SPNKAq8kbNZ1gu3VovgJhv5Xh  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARNT541VT2.tar.gz</Key><RequestId>D14A80C2EC1AD8B9</RequestId><HostId>sQKKsfJInHeA4owwZJGulelvdx/pLuI28fmI01YiksJKZQglhHOzpxa5D9coSQrfn/oAz9GQRbE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARNT541VT2.tar.gz?versionId=PdSswf0SPNKAq8kbNZ1gu3VovgJhv5Xh [OK]
+data/Projects/HBN/R2/MRI/NDARNU137XR4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARNU137XR4.tar.gz 2017-09-28T00:43:25.000Z  733189597 ver:0SFzVmL34H0hqxzkY3INeLO0OfDSElsy  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARNU137XR4.tar.gz</Key><RequestId>FF60668E0B38746D</RequestId><HostId>V1AIFEXnQuU8fC/62lY+3Wvoqmvc/z+2EfrixbchvBp6AxfPGkIAJfwmkPSZ9Roc1OsCq4XROm8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARNU137XR4.tar.gz?versionId=0SFzVmL34H0hqxzkY3INeLO0OfDSElsy [OK]
+data/Projects/HBN/R2/MRI/NDARNV399BV4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARNV399BV4.tar.gz 2017-09-28T00:45:33.000Z 1035482069 ver:I7yR7H4Qjlqy4_IhbYoqriABo45dMIYx  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARNV399BV4.tar.gz</Key><RequestId>2F3D6EFF9B5032E9</RequestId><HostId>713Qtf+tybom1eE7GQtcPK1APpddPYgwOfNoxJysb9ajCOQ08R5uCs/ZZ2F667EAKDZbcPQ4obQ=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARNV399BV4.tar.gz?versionId=I7yR7H4Qjlqy4_IhbYoqriABo45dMIYx [OK]
+data/Projects/HBN/R2/MRI/NDARNX218UY5.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARNX218UY5.tar.gz 2017-09-28T00:48:26.000Z  781596964 ver:rJwusWCSJQo_3BGyYiTKFKvzB_b6sd3k  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARNX218UY5.tar.gz</Key><RequestId>5A4D12BAC85F6747</RequestId><HostId>2nT2Ecm8cu7/Ss1TUmHRDZcX7fxGU9DHPgV2NV/aSeTEbb2OXlWnW+sOS1ym3JdEmtZeAJzRsdI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARNX218UY5.tar.gz?versionId=rJwusWCSJQo_3BGyYiTKFKvzB_b6sd3k [OK]
+data/Projects/HBN/R2/MRI/NDARPE056ACA.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARPE056ACA.tar.gz 2017-09-28T00:50:35.000Z 1229542528 ver:WynJR52LIBv0f9MLUpPvAeKFDu9QswfK  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARPE056ACA.tar.gz</Key><RequestId>8K8Y0Z1PAQ0NAK3R</RequestId><HostId>qman304EmAmzT7XUg3mAvO2p51dVoJVZNy7xKDPvHTOH1cogwNhsNpNgexgJ3wg/ZZ0z2aKQrRU=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARPE056ACA.tar.gz?versionId=WynJR52LIBv0f9MLUpPvAeKFDu9QswfK [OK]
+data/Projects/HBN/R2/MRI/NDARPV145KGL.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARPV145KGL.tar.gz 2017-09-28T00:54:03.000Z 1205188824 ver:H3ddofSDnBgVguHiqtOJtzCeLuP73dIi  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARPV145KGL.tar.gz</Key><RequestId>165038ACE655796A</RequestId><HostId>V8M0mU0UPinItPB7b8dxPPdF3dcjclljlLA7ww8yYvacxBA9pmkUh94p33C4oKUShOGCoL1Lxfo=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARPV145KGL.tar.gz?versionId=H3ddofSDnBgVguHiqtOJtzCeLuP73dIi [OK]
+data/Projects/HBN/R2/MRI/NDARPW313LAJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARPW313LAJ.tar.gz 2017-09-28T00:57:29.000Z 1161117808 ver:rl_KS.1fg7WoD038kYSultuUqTPYLsU0  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARPW313LAJ.tar.gz</Key><RequestId>1EA4ABE6811AC072</RequestId><HostId>jlElt4/dxxaLwH+koFayzfnyPuGpaCMUZKVVidMBpPdDuohsYUZ1z/K0YvaFKf3O+6lGv7Y5gUk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARPW313LAJ.tar.gz?versionId=rl_KS.1fg7WoD038kYSultuUqTPYLsU0 [OK]
+data/Projects/HBN/R2/MRI/NDARRA537FWW.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRA537FWW.tar.gz 2017-09-28T01:00:43.000Z 1203346488 ver:xPcXWPKVv6V__iKRL.21ylWcidHESVkN  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRA537FWW.tar.gz</Key><RequestId>9V9M3WCSASAGEH0R</RequestId><HostId>8NufHyfhLONCCD8kQNKKVMzJDqcUIY3G934kBu8Pz6ZdAvcJdi0eG4iGyGtfkfmjOrBINmcTcLg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRA537FWW.tar.gz?versionId=xPcXWPKVv6V__iKRL.21ylWcidHESVkN [OK]
+data/Projects/HBN/R2/MRI/NDARRA767WB7.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRA767WB7.tar.gz 2017-09-28T01:04:13.000Z 1143285272 ver:R6xRmBDrDjNp5ZV1SH8_WnUffgAEouPG  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRA767WB7.tar.gz</Key><RequestId>0671EA8D3C45E0B9</RequestId><HostId>f387/sIcytfeI82zhss9ECO9tEzgQEUOXly7tEnU+yiR5Wdfsj2bT1BR0ZkRCcoO1JNpmUcSMz0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRA767WB7.tar.gz?versionId=R6xRmBDrDjNp5ZV1SH8_WnUffgAEouPG [OK]
+data/Projects/HBN/R2/MRI/NDARRJ989YPA.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRJ989YPA.tar.gz 2017-09-28T01:07:21.000Z 1386690477 ver:qHPZtwMiYimiHBi5QYYilwCxqja9Ue8x  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRJ989YPA.tar.gz</Key><RequestId>3A63B7C7EE3953FC</RequestId><HostId>uwS+K5EZBvfsp5Nrs5Es3nhkuhmN8a1RiL/uLk3kRs5DhkyiUlz+rSJyxwwKpwZTrt638jpHMbw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRJ989YPA.tar.gz?versionId=qHPZtwMiYimiHBi5QYYilwCxqja9Ue8x [OK]
+data/Projects/HBN/R2/MRI/NDARRK882CLT.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRK882CLT.tar.gz 2017-09-28T01:11:15.000Z 1240147402 ver:hP12bePf0EJg.ENlOtcT1Y6gz1UoP550  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRK882CLT.tar.gz</Key><RequestId>C589E6213BC2526B</RequestId><HostId>K6OuP2c426jCC2iEcUIM+50ETZOwt7mOiY0L6kQ7i68psCfWgCXzn/LjjQbQF7SLfFJ4euKDtpU=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRK882CLT.tar.gz?versionId=hP12bePf0EJg.ENlOtcT1Y6gz1UoP550 [OK]
+data/Projects/HBN/R2/MRI/NDARRL685WB7.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRL685WB7.tar.gz 2017-09-28T01:14:44.000Z 1064701083 ver:wiCAKC0ms7eM6qYtsgdNPA6yNDboSFo9  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRL685WB7.tar.gz</Key><RequestId>94989610D7664AA8</RequestId><HostId>+qK/8u1A2YJgrhc2RDbZ/WE2Mdi+4a1CUJVwzeZRvXI5uQO7VJnQb6MwfbMv15mjkZm1j014fz4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRL685WB7.tar.gz?versionId=wiCAKC0ms7eM6qYtsgdNPA6yNDboSFo9 [OK]
+data/Projects/HBN/R2/MRI/NDARRT038VG1.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRT038VG1.tar.gz 2017-09-28T01:17:41.000Z 1197967525 ver:v8T3jibnUM_Ge0GwWYqp72s0mMCb4ecd  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRT038VG1.tar.gz</Key><RequestId>D18C33E63E44C2E1</RequestId><HostId>rgmOAhUZUiwPdxVaskoasfULQPI8IYXyLN3dgu01+CCxKOBLYg+qtCCTXWbWiuhUppYpaB9+Ptg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRT038VG1.tar.gz?versionId=v8T3jibnUM_Ge0GwWYqp72s0mMCb4ecd [OK]
+data/Projects/HBN/R2/MRI/NDARRY715CY4.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARRY715CY4.tar.gz 2017-09-28T01:21:03.000Z  783834913 ver:NqWqdkhPldH2ABdIp1Y8EcracMCVbJ2u  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARRY715CY4.tar.gz</Key><RequestId>8B48319730D4B142</RequestId><HostId>Iwnm52zZ6wdR5x8R9osEpEUjVQglYLXpdZr6HKdMldr97L37uANi+Lb9VxpFI6QngOK3qCDmpAA=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARRY715CY4.tar.gz?versionId=NqWqdkhPldH2ABdIp1Y8EcracMCVbJ2u [OK]
+data/Projects/HBN/R2/MRI/NDARTH473LF8.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTH473LF8.tar.gz 2017-09-28T01:23:14.000Z 1137064670 ver:h3yDBzQBuy.0dtaifsKTq0oN_YsTN8y6  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTH473LF8.tar.gz</Key><RequestId>2DFECCDD4B90290D</RequestId><HostId>d5tkZEeZznOBcn9ybbOnJHR/F5frTNuaIpYS44rdk23/Aw/myaeIggmoxqaayM0tox0sLPcnZbo=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTH473LF8.tar.gz?versionId=h3yDBzQBuy.0dtaifsKTq0oN_YsTN8y6 [OK]
+data/Projects/HBN/R2/MRI/NDARTN487KDK.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTN487KDK.tar.gz 2017-09-28T01:26:24.000Z 1117517510 ver:dWEUnesTOvyeh6SnUzncMMCDCHalWR.t  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTN487KDK.tar.gz</Key><RequestId>70DB4781E3E81B46</RequestId><HostId>/cO4V/9ojhmxi3JnY4sQkHPWme51XJRBR5pXtlt3WuZQfV7tLPhp4O1/gEQVHxuvAc5lZ6B1K3s=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTN487KDK.tar.gz?versionId=dWEUnesTOvyeh6SnUzncMMCDCHalWR.t [OK]
+data/Projects/HBN/R2/MRI/NDARTP795WU2.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTP795WU2.tar.gz 2017-09-28T01:29:36.000Z 1121934490 ver:e7RFXB1F34XOAp.QBBeVp78P3dzQrePb  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTP795WU2.tar.gz</Key><RequestId>BC6606A1A4FBA41B</RequestId><HostId>R9vhMGAbyXPrnDfLNgVC6zyDWJkjy5rYS6BG5/pR1qTbmHA9bA0LZnTvzGP4P1Kzt697CuHPB08=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTP795WU2.tar.gz?versionId=e7RFXB1F34XOAp.QBBeVp78P3dzQrePb [OK]
+data/Projects/HBN/R2/MRI/NDARTT194LTU.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTT194LTU.tar.gz 2017-09-28T01:32:47.000Z 1041706643 ver:yeAyIfGEaiPvsh7YChWa65R56yNKKJx0  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTT194LTU.tar.gz</Key><RequestId>CY0SEJFS6S3Q3QFP</RequestId><HostId>qRI2BNXjfDe9CFhnaPv6LpuDkj7m7r/z0gVMi/z8P0No8aTxtqlb2okaq5SEH1IPIdaNF5p3c38=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTT194LTU.tar.gz?versionId=yeAyIfGEaiPvsh7YChWa65R56yNKKJx0 [OK]
+data/Projects/HBN/R2/MRI/NDARTU777GVV.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTU777GVV.tar.gz 2017-09-28T01:35:40.000Z 1307071535 ver:6Z1beBO2fvNl6mTCl9xmQZSjGKs4qzRU  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTU777GVV.tar.gz</Key><RequestId>BCE64A0F222E2EF3</RequestId><HostId>hFt5Hcv6RTATmQb8Q4fCFWGul5iP31JiqUpur5rX+gI6floerfGQ6W3/QQdyNeERodjQ1Oemz7s=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTU777GVV.tar.gz?versionId=6Z1beBO2fvNl6mTCl9xmQZSjGKs4qzRU [OK]
+data/Projects/HBN/R2/MRI/NDARTW850GHU.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTW850GHU.tar.gz 2017-09-28T01:39:14.000Z 1211075656 ver:kxlY9faoidq4J3ZstymtpwP8Zu3n_QaL  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTW850GHU.tar.gz</Key><RequestId>9C3C1F54F64AF6E7</RequestId><HostId>fMUc+cAx3xITNmEXvoq71M1O/YK3uZoph7EbDE3CuGOh6N6uancrZyqBzWfgrnxkgjgnJ5d+is8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTW850GHU.tar.gz?versionId=kxlY9faoidq4J3ZstymtpwP8Zu3n_QaL [OK]
+data/Projects/HBN/R2/MRI/NDARTW889JN9.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTW889JN9.tar.gz 2017-09-28T01:42:37.000Z 1121838052 ver:YKkrwtkvmZBy.TY6cTfyF8vaxFfMmRhi  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTW889JN9.tar.gz</Key><RequestId>D54BCC8133BE0DC9</RequestId><HostId>xo766LqH2KmWLAWnF8DPWOb2dvVALoTJOIHWquzr64Xfst0fA0VgPyHK6eSbtdYNfWoAVKvOPb8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTW889JN9.tar.gz?versionId=YKkrwtkvmZBy.TY6cTfyF8vaxFfMmRhi [OK]
+data/Projects/HBN/R2/MRI/NDARTX795AKR.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARTX795AKR.tar.gz 2017-09-28T01:45:51.000Z  839498106 ver:w4wzbRs.hZ2d1X124vwuAWNAwF7qDH_D  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARTX795AKR.tar.gz</Key><RequestId>CAF384EFBE74E7BF</RequestId><HostId>52nzTBq39SjN1XEbIbCAUra2L6IfcIXkvwjndIXwmy+L4UuKziUXEi+xcs1kaRNF03yXoHhJwSY=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARTX795AKR.tar.gz?versionId=w4wzbRs.hZ2d1X124vwuAWNAwF7qDH_D [OK]
+data/Projects/HBN/R2/MRI/NDARUC851WHU.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUC851WHU.tar.gz 2017-09-28T01:48:18.000Z 1379421644 ver:IhRywrLW6c3l3oj76euDnuuEZWiRQ3D9  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUC851WHU.tar.gz</Key><RequestId>D43DF67B3A4E007E</RequestId><HostId>9XBt3u6NtKZ4wdn/B3GvnHCuO+pclseydkq2XpThCYuRxMESkKS4Mn+COQ2lxFbu2VRP6HOh19k=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUC851WHU.tar.gz?versionId=IhRywrLW6c3l3oj76euDnuuEZWiRQ3D9 [OK]
+data/Projects/HBN/R2/MRI/NDARUG323DM3.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUG323DM3.tar.gz 2017-09-28T01:52:05.000Z 1214118128 ver:bmglR8ybPS6zTqCPJCAI9mwjL.KZusrf  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUG323DM3.tar.gz</Key><RequestId>4873353CC4AC3FDF</RequestId><HostId>q5DF8Ab07s1LL6dUOvz9xbtfz3ehNII4ajF1PtDTyM11kSHqHxMwWycOk4beVFwa4aHyTRKiyH0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUG323DM3.tar.gz?versionId=bmglR8ybPS6zTqCPJCAI9mwjL.KZusrf [OK]
+data/Projects/HBN/R2/MRI/NDARUL456EER.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUL456EER.tar.gz 2017-09-28T01:55:28.000Z  678052319 ver:bazh7VpYMCQ6SNjJRKS11wKV9XmB7rbf  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUL456EER.tar.gz</Key><RequestId>1D5D618770386234</RequestId><HostId>17GpK9mXA/IujNpxPcLu2ufOLfN1xC4TlGYhj4xC/7l8ZGCSlld8qKTdeXkjCZNfL5CpWgDyzWU=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUL456EER.tar.gz?versionId=bazh7VpYMCQ6SNjJRKS11wKV9XmB7rbf [OK]
+data/Projects/HBN/R2/MRI/NDARUP249AMD.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUP249AMD.tar.gz 2017-09-28T01:57:29.000Z 1132045399 ver:bHXu7XYDnNtHHl_NcfW1biv7uwRBAu6Z  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUP249AMD.tar.gz</Key><RequestId>186E31DABC72CA11</RequestId><HostId>1QiJ3FWpZxqasmbOksMhoxFUvAoyULj9qkEacDd5nvGzf9zyL2Tj8+S/nZ0GE2/e5c7kRnyq6Fk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUP249AMD.tar.gz?versionId=bHXu7XYDnNtHHl_NcfW1biv7uwRBAu6Z [OK]
+data/Projects/HBN/R2/MRI/NDARUT018UYN.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUT018UYN.tar.gz 2017-09-28T02:00:38.000Z 1357356653 ver:Hip1BCrngSBhlU6cxrcCjbW63yFwqY6M  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUT018UYN.tar.gz</Key><RequestId>68F2DCBAE7F0D960</RequestId><HostId>EUfZaxVSljs8R+STlVLgNuWFUE8H2Veyf2FetX1bVhpa+Qqm1cSJ0pUJ+XXwI3XH/JprYrdCQ9k=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUT018UYN.tar.gz?versionId=Hip1BCrngSBhlU6cxrcCjbW63yFwqY6M [OK]
+data/Projects/HBN/R2/MRI/NDARUW000ALJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUW000ALJ.tar.gz 2017-09-28T02:04:35.000Z  859145609 ver:dR02H4KJeJqse5kHanMicfKiWGYm_Jyu  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUW000ALJ.tar.gz</Key><RequestId>AAE78890E551EF8B</RequestId><HostId>Bf3f1Ua5g0zUtkLaFLbgLBk+yIoMsWr/b/DcMj1qDqdm59G68murR+nlVsEjKg2+XmjErxx4TVY=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUW000ALJ.tar.gz?versionId=dR02H4KJeJqse5kHanMicfKiWGYm_Jyu [OK]
+data/Projects/HBN/R2/MRI/NDARUW904FMQ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUW904FMQ.tar.gz 2017-09-28T02:07:04.000Z  219950389 ver:ZpAdNFX8gm2g6T93yOXuMFf7P171XJWn  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUW904FMQ.tar.gz</Key><RequestId>D954ADE58B7C2B59</RequestId><HostId>A0pkkRpLccHq4qCSI8Z4eaoW6hLKlA/7hdqFsliOaAMoL+5jTqptHciOLCjet+vRyAJnSaYG5nk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUW904FMQ.tar.gz?versionId=ZpAdNFX8gm2g6T93yOXuMFf7P171XJWn [OK]
+data/Projects/HBN/R2/MRI/NDARUX886JLM.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUX886JLM.tar.gz 2017-09-28T02:07:41.000Z 1214168606 ver:qAjVbUFpd3b7PBRzSmV3mA_obsMjidz9  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUX886JLM.tar.gz</Key><RequestId>90FE682B7FE6DC99</RequestId><HostId>e3HGTrKbz+Pwg0u6XBpJSUZ983ljz3it0SZqeZ2wvxpK6iSUGrqUOkXuwNSsm4cb1K0kvGegMK4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUX886JLM.tar.gz?versionId=qAjVbUFpd3b7PBRzSmV3mA_obsMjidz9 [OK]
+data/Projects/HBN/R2/MRI/NDARUZ206DRV.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARUZ206DRV.tar.gz 2017-09-28T02:11:10.000Z 1183444096 ver:oEtmT8NfPDaVtvjpi_CgTjFuxvDyEoEe  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARUZ206DRV.tar.gz</Key><RequestId>562BD1DD3DCABB23</RequestId><HostId>VHUXwFfLU+p7fgTxf/seVW3hKCbz040YCfBJrEJJ7db3Qun6GioFi3Fw0FgDNoC8dsDVXucUyl8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARUZ206DRV.tar.gz?versionId=oEtmT8NfPDaVtvjpi_CgTjFuxvDyEoEe [OK]
+data/Projects/HBN/R2/MRI/NDARVD635FX8.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARVD635FX8.tar.gz 2017-09-28T02:14:33.000Z 1245554022 ver:OfYx2hzWmwxw7fTUEWeVOln2uLo_GaNk  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARVD635FX8.tar.gz</Key><RequestId>6057274F596C8E0F</RequestId><HostId>W3/UwJPMYGaIkSQ4Nbc/WpdushQC4k7c+6MvDmhtFcACna2DmFJjzS+zjfrpPnslxbsqISNITL8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARVD635FX8.tar.gz?versionId=OfYx2hzWmwxw7fTUEWeVOln2uLo_GaNk [OK]
+data/Projects/HBN/R2/MRI/NDARVT488RXJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARVT488RXJ.tar.gz 2017-09-28T02:18:04.000Z 1395414409 ver:v6KddOXzJC0234JAAJwqtbhZkirW6yoB  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARVT488RXJ.tar.gz</Key><RequestId>5C87E802A89B7814</RequestId><HostId>7mMnIukh2nmmYD6FAtZvQMWzT+lRTh3rfMKR2AzdB0XXqquEt71cFDncPV68vV6hs5uS3ywYEAk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARVT488RXJ.tar.gz?versionId=v6KddOXzJC0234JAAJwqtbhZkirW6yoB [OK]
+data/Projects/HBN/R2/MRI/NDARVY366HWJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARVY366HWJ.tar.gz 2017-09-28T02:21:59.000Z 1159962816 ver:79v.1QfKliqjLQoV0SLtC4ekO4bGBJSG  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARVY366HWJ.tar.gz</Key><RequestId>4ACCA78332D03E7D</RequestId><HostId>bY6zpM/yfZTzgJjSNDrp6hAdgpsmVNu7gZl0vyGR4LX/spFCYENxA8oiMkEB6TQmX6RCCfYrqR4=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARVY366HWJ.tar.gz?versionId=79v.1QfKliqjLQoV0SLtC4ekO4bGBJSG [OK]
+data/Projects/HBN/R2/MRI/NDARWA351ZE2.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWA351ZE2.tar.gz 2017-09-28T02:25:22.000Z 1184762710 ver:kUzTp6w5twlymSBrwCoJ23tFmZN8Pg.U  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWA351ZE2.tar.gz</Key><RequestId>FA53D350E6B8E78A</RequestId><HostId>SMczmEdGJX5a2NV8kj81x15gpSrUOAR4DS0etd6rsKk+N/DYfpB2d+ls7l7jq6rSaQuN7JRUL5A=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWA351ZE2.tar.gz?versionId=kUzTp6w5twlymSBrwCoJ23tFmZN8Pg.U [OK]
+data/Projects/HBN/R2/MRI/NDARWP595TE6.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWP595TE6.tar.gz 2017-09-28T02:28:42.000Z 1207000696 ver:iJcANyk0hfUH30bTXnz.I1S1GBdXvlON  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWP595TE6.tar.gz</Key><RequestId>C6187D0B6E7477C1</RequestId><HostId>hrgu22f5LrRk9/2I07JMw6L6sq4gFw5Y0TKXsKHD4PDdeTh2ZVHGx4eRb6PYcveiAlfy6Ucxbsk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWP595TE6.tar.gz?versionId=iJcANyk0hfUH30bTXnz.I1S1GBdXvlON [OK]
+data/Projects/HBN/R2/MRI/NDARWP634RZL.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWP634RZL.tar.gz 2017-09-28T02:32:05.000Z  891123155 ver:FVemfP4tto0YOoY1U3D9fJoAciPUapkE  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWP634RZL.tar.gz</Key><RequestId>2F727FB547ACE283</RequestId><HostId>5IbyzEE94ecArDaDiXIj7bEbAcDS53jhjttofIDuGRYbTJL03qniNlQrcA/htLpovdbhtwQKdKI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWP634RZL.tar.gz?versionId=FVemfP4tto0YOoY1U3D9fJoAciPUapkE [OK]
+data/Projects/HBN/R2/MRI/NDARWR678HLF.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWR678HLF.tar.gz 2017-09-28T02:34:33.000Z 1255735696 ver:UtbqBvGWCUf.XHgRNb6Zy.Ht.S2b.6lO  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWR678HLF.tar.gz</Key><RequestId>4DD2563880583B57</RequestId><HostId>YzfDRCWwf7CM4MiZx2rdpQqS2bo7XVZrgDHiTnubscG5VRtBL7096YcUMH8L7vAvI3gwjufIovI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWR678HLF.tar.gz?versionId=UtbqBvGWCUf.XHgRNb6Zy.Ht.S2b.6lO [OK]
+data/Projects/HBN/R2/MRI/NDARWT449PUN.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWT449PUN.tar.gz 2017-09-28T02:38:03.000Z 1243403559 ver:adj2FygfZvtRWXLzfmRWI3IQSdhcH.uo  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWT449PUN.tar.gz</Key><RequestId>333EE68442183D2B</RequestId><HostId>GGh8ytbVg9tSL+04rfJxGGBciFwRSpwKIxvulUno2A3DdgAFF83uTM0NJ7+RC1SZh+IxxpG8yPU=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWT449PUN.tar.gz?versionId=adj2FygfZvtRWXLzfmRWI3IQSdhcH.uo [OK]
+data/Projects/HBN/R2/MRI/NDARWV449GEM.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWV449GEM.tar.gz 2017-09-28T02:41:31.000Z 1225555745 ver:6dUshVc5cBYQSL7XhsRbDOr4vtLohQfD  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWV449GEM.tar.gz</Key><RequestId>9202B8E00E9953E4</RequestId><HostId>/XyR/01YfRiYFW6X1rFuZQ39BJpRqOkjPH1ae+TOVr7XcIpBrE4gtIVd6wPclsWCFd5Uq/Ocmao=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWV449GEM.tar.gz?versionId=6dUshVc5cBYQSL7XhsRbDOr4vtLohQfD [OK]
+data/Projects/HBN/R2/MRI/NDARWY235XNE.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARWY235XNE.tar.gz 2017-09-28T02:44:52.000Z   48736449 ver:MnxMLMtVWLrvmGEDVLedbbFJmbO.wnWM  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARWY235XNE.tar.gz</Key><RequestId>B64561CEC97CB2C6</RequestId><HostId>9QrLkxE7pGkmNtFaAYumJy7phYzJjCoF0X6+ZGq3QZyoYuHEE+lzPy9t9kLqwRKoBK7x3txSi9M=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARWY235XNE.tar.gz?versionId=MnxMLMtVWLrvmGEDVLedbbFJmbO.wnWM [OK]
+data/Projects/HBN/R2/MRI/NDARXD502MC1.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXD502MC1.tar.gz 2017-09-28T02:45:03.000Z  190632811 ver:M.kM8Fi5IZVfIYgrxt9zRdC2KQ32ZtS0  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXD502MC1.tar.gz</Key><RequestId>1481E6DF127ECD4D</RequestId><HostId>Kq58fiWPi5H0+0BD6D6cwLsJLqh/G23oI+7CyDHWWoZL1x+m1i09aGWTgATS/ioVyN1WRDXOUH0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXD502MC1.tar.gz?versionId=M.kM8Fi5IZVfIYgrxt9zRdC2KQ32ZtS0 [OK]
+data/Projects/HBN/R2/MRI/NDARXF203DCD.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXF203DCD.tar.gz 2017-09-28T02:45:35.000Z 1228974881 ver:4r1XhLBslOu6cyVyw7fHs43dBM.E_7eO  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXF203DCD.tar.gz</Key><RequestId>F559CACE1A998F07</RequestId><HostId>WsAcHx3rk68q09EK3Jo4TsZRYQhB+pEMCkIaSWZW1GgZ6Ms72k/NYxXt1vxetpGPjvZBXYahC2s=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXF203DCD.tar.gz?versionId=4r1XhLBslOu6cyVyw7fHs43dBM.E_7eO [OK]
+data/Projects/HBN/R2/MRI/NDARXG571WPL.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXG571WPL.tar.gz 2017-09-28T02:49:07.000Z 1116930669 ver:DSeQ5keYbxferBotVAyUHVRP0zcwBlJE  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXG571WPL.tar.gz</Key><RequestId>2EB69877A122BB8F</RequestId><HostId>vhFFHlAZXOdq8eq65LaDpOQrVTpPW3NuOV9biAABxifjIDrJ1s9pLFCO/Wpcy9u28Hsid4AK+Tc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXG571WPL.tar.gz?versionId=DSeQ5keYbxferBotVAyUHVRP0zcwBlJE [OK]
+data/Projects/HBN/R2/MRI/NDARXR637JER.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXR637JER.tar.gz 2017-09-28T02:52:10.000Z 1181225264 ver:aH.jmJvy21fYGKHq9l5CXRcnFuzIPx8z  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXR637JER.tar.gz</Key><RequestId>E17F7EE6CE3BB1D7</RequestId><HostId>vmYZN+6O1TDvecKQiImKPKagbDKaA7EPB/7Bqbn+DENegw5kzq+xMbmSso5VTUTEA+IA1rATXA0=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXR637JER.tar.gz?versionId=aH.jmJvy21fYGKHq9l5CXRcnFuzIPx8z [OK]
+data/Projects/HBN/R2/MRI/NDARXV445NYZ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXV445NYZ.tar.gz 2017-09-28T02:55:28.000Z 1078845741 ver:XaDb3oFjxxwMqd9f705LbYpqIkhy6EcG  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXV445NYZ.tar.gz</Key><RequestId>8C6A5AF8AA30F715</RequestId><HostId>+wJKM9cDhDiNZCc89lUnjq/FPov1ONy+FxKOPZfiQLf++WmIEyDWcNyqd8khxzP51wt0wLrrIMg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXV445NYZ.tar.gz?versionId=XaDb3oFjxxwMqd9f705LbYpqIkhy6EcG [OK]
+data/Projects/HBN/R2/MRI/NDARXY240WJC.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXY240WJC.tar.gz 2017-09-28T02:58:33.000Z 1265188507 ver:4tgL60J.1k0gXN2sDFhCfo8L_HZ1rqyi  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXY240WJC.tar.gz</Key><RequestId>8C3C076A3F30E75B</RequestId><HostId>XxWKeaSfynTAVwbnj7nhx25YKDbyRv4CyUKPohEEENF1iZn6s99i6iVmhU8K6x4ZjTXfLa5AKs8=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXY240WJC.tar.gz?versionId=4tgL60J.1k0gXN2sDFhCfo8L_HZ1rqyi [OK]
+data/Projects/HBN/R2/MRI/NDARXY745NXJ.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARXY745NXJ.tar.gz 2017-09-28T03:02:06.000Z 1237645330 ver:w5nrzTlS0JlqhA7w1dSGq9dH0P0g45uM  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARXY745NXJ.tar.gz</Key><RequestId>2F1A20E9E828A56A</RequestId><HostId>kkczy5K7HYxNotrtQk1JcthNZH2c68Y9yQ8HfK0tF7qVNDnqhvMYWu/3lkYOevt2INFetSRozNI=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARXY745NXJ.tar.gz?versionId=w5nrzTlS0JlqhA7w1dSGq9dH0P0g45uM [OK]
+data/Projects/HBN/R2/MRI/NDARYL758JGG.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARYL758JGG.tar.gz 2017-09-28T03:05:35.000Z 1408794611 ver:VHyMf5pXrP9GYVZKacT7ftm39gF7XyLq  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARYL758JGG.tar.gz</Key><RequestId>ABBBE4C96DE79928</RequestId><HostId>INtjpNfZk+D3CzuWznHCClbUmh78RCP75uYl2fb+8Sxmz88HyrlFS9ZkObicK1/iFLlqu+82PGw=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARYL758JGG.tar.gz?versionId=VHyMf5pXrP9GYVZKacT7ftm39gF7XyLq [OK]
+data/Projects/HBN/R2/MRI/NDARYL771XDP.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARYL771XDP.tar.gz 2017-09-28T03:09:34.000Z  189088364 ver:upgebj66Dz5BqoSQjKA2EhYjnweRP8US  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARYL771XDP.tar.gz</Key><RequestId>FA437E41A43B6DD6</RequestId><HostId>9gPO2nWcJxZgp0A6teMI/zVbWvnTNvCJE8jp9QNflfl0SV8RTh7AgbCy0cyQlToAwSqNK1x+Zmg=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARYL771XDP.tar.gz?versionId=upgebj66Dz5BqoSQjKA2EhYjnweRP8US [OK]
+data/Projects/HBN/R2/MRI/NDARYY218LU2.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARYY218LU2.tar.gz 2017-09-28T03:10:08.000Z 1019211065 ver:jg9XLHqAEnY1v3WhxlPT9mNogQrvjjsm  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARYY218LU2.tar.gz</Key><RequestId>AD58CB64598EA467</RequestId><HostId>6YyQXtthPTOz6mJqAXNP+VJLBl/iNDz9sNwfWb+8sHaqt5dHAgJvzcfcEjobF48aGte/qblrZLE=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARYY218LU2.tar.gz?versionId=jg9XLHqAEnY1v3WhxlPT9mNogQrvjjsm [OK]
+data/Projects/HBN/R2/MRI/NDARYZ909VND.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARYZ909VND.tar.gz 2017-09-28T03:12:53.000Z 1057151205 ver:BeyiYkrD_pPXxlwj5B2zDxWBOBFd0stS  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARYZ909VND.tar.gz</Key><RequestId>D59706F59052809E</RequestId><HostId>qHzcQoTY9tqVWK9IB92OdxYNqRynH8oAQn9nCOtwxn0n2FqU5yQ77mcrUwG8cc1Fr4gKVPI80bk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARYZ909VND.tar.gz?versionId=BeyiYkrD_pPXxlwj5B2zDxWBOBFd0stS [OK]
+data/Projects/HBN/R2/MRI/NDARZE850WXD.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARZE850WXD.tar.gz 2017-09-28T03:15:49.000Z 1141240947 ver:lEGMx7BdzLo2CeqJG4ATkErk37rGXopJ  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARZE850WXD.tar.gz</Key><RequestId>0N0R7V8T0X3RDJ2G</RequestId><HostId>7SAvd9mPvuIa5tWYYyOeJbBDJzTs5f0biZQJZkoXEpKbyJanro2007WeDm1EClHlhvmzANQZq2g=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARZE850WXD.tar.gz?versionId=lEGMx7BdzLo2CeqJG4ATkErk37rGXopJ [OK]
+data/Projects/HBN/R2/MRI/NDARZJ603JM0.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARZJ603JM0.tar.gz 2017-09-28T03:18:57.000Z 1232488216 ver:3IPE34CWt_bB6oEiJD00wAS1dJOMeKxV  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARZJ603JM0.tar.gz</Key><RequestId>FHAT0M8J7QEKCV8Y</RequestId><HostId>sE5SwUO9VkiJI0mV0QY3+HXpukPebYbBIdM887DjsuaGc4/HnTVsyVltikExLPrMd8CXITzjVrk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARZJ603JM0.tar.gz?versionId=3IPE34CWt_bB6oEiJD00wAS1dJOMeKxV [OK]
+data/Projects/HBN/R2/MRI/NDARZK732FZ0.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARZK732FZ0.tar.gz 2017-09-28T03:22:25.000Z 1384131753 ver:hTE4Bztfv1rI0nAfahQJN4T5kTWtBTG9  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARZK732FZ0.tar.gz</Key><RequestId>D96F3DC3D09B5BBB</RequestId><HostId>93upiTZ+EyGfN22cj4WslNL5YZB+Ooe3/bzsF1e+P87xl2T+lsnvqLExIII9g9A+1kpcC+X0xGc=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARZK732FZ0.tar.gz?versionId=hTE4Bztfv1rI0nAfahQJN4T5kTWtBTG9 [OK]
+data/Projects/HBN/R2/MRI/NDARZL855WVA.tar.gz 2018-03-06T16:27:34.000Z DeleteMarker
+data/Projects/HBN/R2/MRI/NDARZL855WVA.tar.gz 2017-09-28T03:26:24.000Z 1210539371 ver:4NyMp0shU1LQkq1BQxSpwKK5i0T4vhMJ  acl:S3ResponseError: 404 Not Found
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>data/Projects/HBN/R2/MRI/NDARZL855WVA.tar.gz</Key><RequestId>D80F4379B8086091</RequestId><HostId>hu7xSB8IqkmNISNbmUJjF++LxInRNrJIUqko3WgBDJdtMTLNqzkCrs1HaJrBslhx/AIK7hQjRVk=</HostId></Error>  http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/R2/MRI/NDARZL855WVA.tar.gz?versionId=4NyMp0shU1LQkq1BQxSpwKK5i0T4vhMJ [OK]

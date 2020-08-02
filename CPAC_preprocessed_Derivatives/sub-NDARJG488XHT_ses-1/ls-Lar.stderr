@@ -1,0 +1,2 @@
+[INFO] S3 session: Connecting to the bucket fcp-indi with authentication 
+[ERROR] [Errno 104] Connection reset by peer [socket.py:readinto:589] (ConnectionResetError) 
